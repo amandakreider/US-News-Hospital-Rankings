@@ -46,7 +46,7 @@ national_ranks_adult = []
 national_ranks_peds = []
 updated = []
 
-for p in range(1, 10):
+for p in range(1, 25):
 
 	pagestr = str(p)
 
@@ -54,84 +54,95 @@ for p in range(1, 10):
 
 	# Pull in json data from url
 	r = requests.get(url, headers=hdr)
-	soup = bs(r.content, "html.parser")
-	json_data = soup.text
-	data = json.loads(json_data)
+	print(r.status_code)
 
-	matches = data['matches']
+	if r.status_code != 204 and r.status_code != 404:
 
-	for h in range(len(data['matches'])):
+		soup = bs(r.content, "html.parser")
+		json_data = soup.text
+		data = json.loads(json_data)
 
-		# Get hospital data
-		name = matches[h]['name']
-		names.append(name)
+		matches = data['matches']
 
-		print('Working on hospital: '+name)
+		for h in range(len(data['matches'])):
 
-		aha_id = matches[h]['aha_id']
-		aha_ids.append(aha_id)
+			# Get hospital data
+			name = matches[h]['name']
+			names.append(name)
 
-		hospital_id = matches[h]['hospital_id']
-		hospital_ids.append(hospital_id)
+			print('Working on hospital: '+name)
 
-		address = matches[h]['location']['address']
-		addresses.append(address)
+			aha_id = matches[h]['aha_id']
+			aha_ids.append(aha_id)
 
-		city = matches[h]['location']['city']
-		cities.append(city)
+			hospital_id = matches[h]['hospital_id']
+			hospital_ids.append(hospital_id)
 
-		state = matches[h]['location']['state']['name']
-		states.append(state)
+			address = matches[h]['location']['address']
+			addresses.append(address)
 
-		state_abbrev = matches[h]['location']['state']['abbreviation']
-		state_abbrevs.append(state_abbrev)
+			city = matches[h]['location']['city']
+			cities.append(city)
 
-		zip_code = matches[h]['location']['zip_code']
-		zips.append(zip_code)
+			state = matches[h]['location']['state']['name']
+			states.append(state)
 
-		latitude = matches[h]['location']['geolocation']['lat']
-		lats.append(latitude)
+			state_abbrev = matches[h]['location']['state']['abbreviation']
+			state_abbrevs.append(state_abbrev)
 
-		longitude = matches[h]['location']['geolocation']['lon']
-		longs.append(longitude)
+			zip_code = matches[h]['location']['zip_code']
+			zips.append(zip_code)
 
-		input_location = matches[h]['input_location']
-		input_locations.append(input_location)
+			latitude = matches[h]['location']['geolocation']['lat']
+			lats.append(latitude)
 
-		input_location_distance = matches[h]['input_location_distance']
-		input_location_dists.append(input_location_distance)
+			longitude = matches[h]['location']['geolocation']['lon']
+			longs.append(longitude)
 
-		phone = matches[h]['phone']
-		phones.append(phone)
+			input_location = matches[h]['input_location']
+			input_locations.append(input_location)
 
-		url = usn_url+matches[h]['url']
-		urls.append(url)
+			input_location_distance = matches[h]['input_location_distance']
+			input_location_dists.append(input_location_distance)
 
-		metro_name = matches[h]['regional']['metro_area']['name']
-		metro_names.append(metro_name)
+			phone = matches[h]['phone']
+			phones.append(phone)
 
-		metro_recognized = matches[h]['regional']['metro_area']['is_recognized_in']
-		metro_rec.append(metro_recognized)
+			url = usn_url+matches[h]['url']
+			urls.append(url)
 
-		metro_rank = matches[h]['regional']['metro_area']['rank']
-		metro_ranks.append(metro_rank)
+			metro_name = matches[h]['regional']['metro_area']['name']
+			metro_names.append(metro_name)
 
-		metro_tied = matches[h]['regional']['metro_area']['is_tied']
-		metro_tied_flags.append(metro_tied)
+			metro_recognized = matches[h]['regional']['metro_area']['is_recognized_in']
+			metro_rec.append(metro_recognized)
 
-		common_care_ratings = matches[h]['common_care_ratings']
-		common_cares.append(common_care_ratings)
+			metro_rank = matches[h]['regional']['metro_area']['rank']
+			metro_ranks.append(metro_rank)
 
-		high_performing_adult_specialties = matches[h]['high_performing_adult_specialties']
-		high_perf_adult.append(high_performing_adult_specialties)
+			metro_tied = matches[h]['regional']['metro_area']['is_tied']
+			metro_tied_flags.append(metro_tied)
 
-		national_rankings_adult = matches[h]['national_rankings']['adult']
-		national_ranks_adult.append(national_rankings_adult)
+			common_care_ratings = matches[h]['common_care_ratings']
+			common_cares.append(common_care_ratings)
 
-		national_rankings_peds = matches[h]['national_rankings']['pediatric']
-		national_ranks_peds.append(national_rankings_peds)
+			high_performing_adult_specialties = matches[h]['high_performing_adult_specialties']
+			high_perf_adult.append(high_performing_adult_specialties)
 
-		updated.append(timestamp)
+			national_rankings_adult = matches[h]['national_rankings']['adult']
+			national_ranks_adult.append(national_rankings_adult)
+
+			national_rankings_peds = matches[h]['national_rankings']['pediatric']
+			national_ranks_peds.append(national_rankings_peds)
+
+			updated.append(timestamp)
+
+	else:
+
+		print('No page')
+		continue
+
+
 
 print('Create a csv file with hospital data')
 # Create a csv file with hospital data
@@ -164,8 +175,8 @@ df.drop_duplicates()
 
 # Save CSV 
 
-#directory = '/mnt/c/Users/akreid/iCloudDrive/Documents/GitHub/usnews/csv/'
-directory = str(Path(__file__).parent.parent) + "/csv/"
+directory = '/mnt/c/Users/akreid/iCloudDrive/Documents/GitHub/usnews/csv/'
+#directory = str(Path(__file__).parent.parent) + "/csv/"
 print("csv file will be generated at ", directory)
 df.to_csv(directory+'hosp_rankings_phila_pa.csv')
 
