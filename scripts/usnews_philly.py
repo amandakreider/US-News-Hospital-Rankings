@@ -6,7 +6,7 @@ import os
 from pathlib import Path
 
 # Define city
-city = 'Philadelphia, PA'
+searchcity = 'Philadelphia, PA'
 
 # Define url
 usn_url = 'https://health.usnews.com'
@@ -41,9 +41,9 @@ national_ranks_peds = []
 
 for p in range(1, 10):
 
-	pagestr = string(p)
+	pagestr = str(p)
 
-	url = 'https://health.usnews.com/best-hospitals/search-data?city='+city+'&page='+pagestr
+	url = 'https://health.usnews.com/best-hospitals/search-data?city='+searchcity+'&page='+pagestr
 
 	# Pull in json data from url
 	r = requests.get(url, headers=hdr)
@@ -58,6 +58,8 @@ for p in range(1, 10):
 		# Get hospital data
 		name = matches[h]['name']
 		names.append(name)
+
+		print('Working on hospital: '+name)
 
 		aha_id = matches[h]['aha_id']
 		aha_ids.append(aha_id)
@@ -122,24 +124,9 @@ for p in range(1, 10):
 		national_rankings_peds = matches[h]['national_rankings']['pediatric']
 		national_ranks_peds.append(national_rankings_peds)
 
+print('Create a csv file with hospital data')
 # Create a csv file with hospital data
 df = pd.DataFrame()
-
-zips = []
-lats = []
-longs = []
-input_locations = []
-input_location_dists = []
-phones = []
-urls = []
-metro_names = []
-metro_rec = []
-metro_ranks = []
-metro_tied_flags = []
-common_cares = []
-high_perf_adult = []
-national_ranks_adult = []
-national_ranks_peds = []
 
 df['Name'] = names
 df['AHA ID'] = aha_ids
@@ -159,13 +146,15 @@ df['Metro'] = metro_names
 df['Recognized in Metro'] = metro_rec
 df['Metro Rank'] = metro_ranks
 df['Tied?'] = metro_tied_flags
-df['# of Common Cares Rankings'] = common_cares
 df['# of High Performing Adult Specialties'] = high_perf_adult
 df['# of National Rankings (Adult)'] = national_ranks_adult
 df['# of National Rankings (Pediatrics)'] = national_ranks_peds
 
+df.drop_duplicates()
+
 # Save CSV 
 
+#directory = '/mnt/c/Users/akreid/iCloudDrive/Documents/GitHub/usnews/csv/'
 directory = str(Path(__file__).parent.parent) + "/csv/"
 print("csv file will be generated at ", directory)
 df.to_csv(directory+'hosp_rankings_phila_pa.csv')
