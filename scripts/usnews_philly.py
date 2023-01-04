@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup as bs
 import pandas as pd
 import os
 from pathlib import Path
+from datetime import date, datetime, timedelta
 
 # Define city
 searchcity = 'Philadelphia, PA'
@@ -16,6 +17,11 @@ hdr = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0'
 }
 
+# Timestamp
+timestamp = datetime.now()
+print(timestamp)
+
+# Initiate lists
 names = []
 aha_ids = []
 hospital_ids = []
@@ -38,6 +44,7 @@ common_cares = []
 high_perf_adult = []
 national_ranks_adult = []
 national_ranks_peds = []
+updated = []
 
 for p in range(1, 10):
 
@@ -124,6 +131,8 @@ for p in range(1, 10):
 		national_rankings_peds = matches[h]['national_rankings']['pediatric']
 		national_ranks_peds.append(national_rankings_peds)
 
+		updated.append(timestamp)
+
 print('Create a csv file with hospital data')
 # Create a csv file with hospital data
 df = pd.DataFrame()
@@ -149,6 +158,7 @@ df['Tied?'] = metro_tied_flags
 df['# of High Performing Adult Specialties'] = high_perf_adult
 df['# of National Rankings (Adult)'] = national_ranks_adult
 df['# of National Rankings (Pediatrics)'] = national_ranks_peds
+df['Updated'] = updated
 
 df.drop_duplicates()
 
