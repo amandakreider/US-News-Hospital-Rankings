@@ -171,7 +171,7 @@ df['# of National Rankings (Pediatrics)'] = national_ranks_peds
 
 directory = str(Path(__file__).parent.parent) + "/csv/"
 print("csv file will be generated at ", directory)
-df.to_csv(directory+'philadelphia_rankings.csv')
+df.to_csv(directory+'hosp_rankings_phila_pa.csv')
 
 
 
