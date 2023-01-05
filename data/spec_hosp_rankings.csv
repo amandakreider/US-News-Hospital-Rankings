@@ -1,0 +1,914 @@
+,Name (Specialty),AHA ID,Hospital ID,Specialty ID,Specialty Score,Specialty Ranking,Specialty Ranking Tied?,Specialty Ranking Revoked?,Specialty Ranking Type,Updated
+0,University of Texas MD Anderson Cancer Center,6741945,6741945,IHQCANC,100.0/100,1.0,False,False,adult,2023-01-04 20:29:21.680567
+1,Memorial Sloan Kettering Cancer Center,6213060,6213060,IHQCANC,85.7/100,2.0,False,False,adult,2023-01-04 20:29:21.680567
+2,Mayo Clinic,6610451,6610451,IHQCANC,79.9/100,3.0,False,False,adult,2023-01-04 20:29:21.680567
+3,Dana-Farber/Brigham and Women's Cancer Center,6140583,6140583,IHQCANC,76.0/100,4.0,False,False,adult,2023-01-04 20:29:21.680567
+4,UCLA Medical Center,6931755,6931755,IHQCANC,73.2/100,5.0,False,False,adult,2023-01-04 20:29:21.680567
+5,Cleveland Clinic,6410670,6410670,IHQCANC,71.9/100,6.0,False,False,adult,2023-01-04 20:29:21.680567
+6,City of Hope Comprehensive Cancer Center,6930590,6930590,IHQCANC,69.9/100,7.0,False,False,adult,2023-01-04 20:29:21.680567
+7,Hospitals of the University of Pennsylvania-Penn Presbyterian,6231900,6231900,IHQCANC,69.2/100,8.0,False,False,adult,2023-01-04 20:29:21.680567
+8,Northwestern Medicine-Northwestern Memorial Hospital,6430545,6430545,IHQCANC,68.9/100,9.0,False,False,adult,2023-01-04 20:29:21.680567
+9,Siteman Cancer Center at Barnes-Jewish Hospital,6630930,6630930,IHQCANC,68.4/100,10.0,False,False,adult,2023-01-04 20:29:21.680567
+10,Cedars-Sinai Medical Center,6930444,6930444,IHQCANC,67.7/100,11.0,False,False,adult,2023-01-04 20:29:21.680567
+11,New York-Presbyterian Hospital-Columbia and Cornell,6210024,6210024,IHQCANC,67.6/100,12.0,False,False,adult,2023-01-04 20:29:21.680567
+12,Johns Hopkins Hospital,6320180,6320180,IHQCANC,67.4/100,13.0,False,False,adult,2023-01-04 20:29:21.680567
+13,University of Chicago Medical Center,6431210,6431210,IHQCANC,66.4/100,14.0,False,False,adult,2023-01-04 20:29:21.680567
+14,Stanford Health Care-Stanford Hospital,6932330,6932330,IHQCANC,66.2/100,15.0,True,False,adult,2023-01-04 20:29:21.680567
+15,UCSF Health-UCSF Medical Center,6930043,6930043,IHQCANC,66.2/100,15.0,True,False,adult,2023-01-04 20:29:21.680567
+16,UPMC Presbyterian Shadyside,6230029,6230029,IHQCANC,64.3/100,16.0,False,False,adult,2023-01-04 20:29:21.680567
+17,USC Norris Cancer Hospital-Keck Medical Center of USC,6931585,6931585,IHQCANC,64.0/100,18.0,False,False,adult,2023-01-04 20:29:21.680567
+18,Perlmutter Cancer Center at NYU Langone Hospitals,6212925,6212925,IHQCANC,62.9/100,19.0,False,False,adult,2023-01-04 20:29:21.680567
+19,UC San Diego Health-Moores Cancer Center,6932820,6932820,IHQCANC,62.8/100,20.0,False,False,adult,2023-01-04 20:29:21.680567
+20,Massachusetts General Hospital,6140430,6140430,IHQCANC,61.0/100,21.0,False,False,adult,2023-01-04 20:29:21.680567
+21,Duke University Hospital,6360355,6360355,IHQCANC,60.5/100,22.0,False,False,adult,2023-01-04 20:29:21.680567
+22,Mayo Clinic-Phoenix,6860019,6860019,IHQCANC,60.4/100,23.0,False,False,adult,2023-01-04 20:29:21.680567
+23,Ohio State University James Cancer Hospital,6410008,6410008,IHQCANC,60.3/100,24.0,False,False,adult,2023-01-04 20:29:21.680567
+24,H. Lee Moffitt Cancer Center and Research Institute,6391069,6391069,IHQCANC,60.2/100,25.0,True,False,adult,2023-01-04 20:29:21.680567
+25,UT Southwestern Medical Center,6740343,6740343,IHQCANC,60.2/100,25.0,True,False,adult,2023-01-04 20:29:21.680567
+26,Fred Hutchinson Cancer Center/University of Washington Medical Center,6910011,6910011,IHQCANC,59.7/100,27.0,False,False,adult,2023-01-04 20:29:21.680567
+27,Mount Sinai Hospital,6213140,6213140,IHQCANC,59.0/100,28.0,False,False,adult,2023-01-04 20:29:21.680567
+28,Houston Methodist Hospital,6741960,6741960,IHQCANC,58.2/100,29.0,False,False,adult,2023-01-04 20:29:21.680567
+29,AdventHealth Orlando,6390690,6390690,IHQCANC,57.9/100,30.0,False,False,adult,2023-01-04 20:29:21.680567
+30,Beth Israel Deaconess Medical Center,6140013,6140013,IHQCANC,57.7/100,31.0,True,False,adult,2023-01-04 20:29:21.680567
+31,Rush University Medical Center,6430985,6430985,IHQCANC,57.7/100,31.0,True,False,adult,2023-01-04 20:29:21.680567
+32,Huntsman Cancer Institute at the University of Utah,6870315,6870315,IHQCANC,57.4/100,33.0,True,False,adult,2023-01-04 20:29:21.680567
+33,University of Kentucky Albert B. Chandler Hospital,6510455,6510455,IHQCANC,57.4/100,33.0,True,False,adult,2023-01-04 20:29:21.680567
+34,Dan L Duncan Comprehensive Cancer Center at Baylor St. Luke’s Medical Center,6742005,6742005,IHQCANC,57.3/100,35.0,True,False,adult,2023-01-04 20:29:21.680567
+35,Montefiore Medical Center,6213100,6213100,IHQCANC,57.3/100,35.0,True,False,adult,2023-01-04 20:29:21.680567
+36,OHSU Hospital-Knight Cancer Institute,6920570,6920570,IHQCANC,57.2/100,37.0,False,False,adult,2023-01-04 20:29:21.680567
+37,Vanderbilt University Medical Center,6521060,6521060,IHQCANC,57.0/100,38.0,False,False,adult,2023-01-04 20:29:21.680567
+38,UC Davis Medical Center,6932680,6932680,IHQCANC,56.8/100,39.0,False,False,adult,2023-01-04 20:29:21.680567
+39,University of Michigan Health Rogel Cancer Center,6440110,6440110,IHQCANC,56.5/100,40.0,False,False,adult,2023-01-04 20:29:21.680567
+40,North Shore University Hospital at Northwell Health,6212357,6212357,IHQCANC,55.5/100,41.0,True,False,adult,2023-01-04 20:29:21.680567
+41,Thomas Jefferson University Hospitals-Sidney Kimmel Cancer Center,6230043,6230043,IHQCANC,55.5/100,41.0,True,False,adult,2023-01-04 20:29:21.680567
+42,Emory University Hospital,6380570,6380570,IHQCANC,55.3/100,43.0,False,False,adult,2023-01-04 20:29:21.680567
+43,MedStar Georgetown University Hospital,6330130,6330130,IHQCANC,55.1/100,44.0,False,False,adult,2023-01-04 20:29:21.680567
+44,M Health Fairview University of Minnesota Medical Center,6610004,6610004,IHQCANC,54.7/100,45.0,False,False,adult,2023-01-04 20:29:21.680567
+45,UCI Medical Center,6932290,6932290,IHQCANC,54.5/100,46.0,True,False,adult,2023-01-04 20:29:21.680567
+46,University of Kansas Hospital,6670510,6670510,IHQCANC,54.5/100,46.0,True,False,adult,2023-01-04 20:29:21.680567
+47,Queen's Medical Center,6950380,6950380,IHQCANC,54.4/100,48.0,True,False,adult,2023-01-04 20:29:21.680567
+48,Sylvester Comprehensive Cancer Center-University of Miami Hospital and Clinics,6390610,6390610,IHQCANC,54.4/100,48.0,True,False,adult,2023-01-04 20:29:21.680567
+49,Lenox Hill Hospital at Northwell Health,6212990,6212990,IHQCANC,54.1/100,50.0,False,False,adult,2023-01-04 20:29:21.680567
+50,University of Alabama at Birmingham Hospital,6530304,6530304,IHQCANC,54.0/100,,,,adult,2023-01-04 20:29:21.680567
+51,MUSC Health-University Medical Center,6370085,6370085,IHQCANC,53.5/100,,,,adult,2023-01-04 20:29:21.680567
+52,Fred & Pamela Buffett Cancer Center,6660005,6660005,IHQCANC,53.3/100,,,,adult,2023-01-04 20:29:21.680567
+53,Long Island Jewish Medical Center at Northwell Health,6211680,6211680,IHQCANC,53.3/100,,,,adult,2023-01-04 20:29:21.680567
+54,UW Health University Hospital,6450820,6450820,IHQCANC,53.3/100,,,,adult,2023-01-04 20:29:21.680567
+55,Mayo Clinic-Jacksonville,6390380,6390380,IHQCANC,52.9/100,,,,adult,2023-01-04 20:29:21.680567
+56,Fox Chase Cancer Center,6231660,6231660,IHQCANC,52.7/100,,,,adult,2023-01-04 20:29:21.680567
+57,Smilow Cancer Hospital at Yale New Haven,6160400,6160400,IHQCANC,52.6/100,,,,adult,2023-01-04 20:29:21.680567
+58,University Hospitals Seidman Cancer Center,6410920,6410920,IHQCANC,52.6/100,,,,adult,2023-01-04 20:29:21.680567
+59,University of Virginia Medical Center,6344000,6344000,IHQCANC,52.4/100,,,,adult,2023-01-04 20:29:21.680567
+60,Baptist Health Miami Cancer Institute,6390578,6390578,IHQCANC,52.1/100,,,,adult,2023-01-04 20:29:21.680567
+61,Baylor University Medical Center,6740900,6740900,IHQCANC,52.1/100,,,,adult,2023-01-04 20:29:21.680567
+62,Loma Linda University Medical Center,6930053,6930053,IHQCANC,51.6/100,,,,adult,2023-01-04 20:29:21.680567
+63,VCU Medical Center,6340860,6340860,IHQCANC,51.5/100,,,,adult,2023-01-04 20:29:21.680567
+64,University of Colorado Cancer Center-UCHealth University of Colorado Hospital,6840430,6840430,IHQCANC,50.9/100,,,,adult,2023-01-04 20:29:21.680567
+65,University of Iowa Hospitals and Clinics,6620765,6620765,IHQCANC,50.9/100,,,,adult,2023-01-04 20:29:21.680567
+66,Dartmouth Hitchcock Medical Center,6120170,6120170,IHQCANC,50.8/100,,,,adult,2023-01-04 20:29:21.680567
+67,St. Francis Hospital and Heart Center,6214410,6214410,IHQCANC,50.6/100,,,,adult,2023-01-04 20:29:21.680567
+68,Levine Cancer Institute,6360280,6360280,IHQCANC,50.0/100,,,,adult,2023-01-04 20:29:21.680567
+69,University of Maryland Medical Center,6320330,6320330,IHQCANC,50.0/100,,,,adult,2023-01-04 20:29:21.680567
+70,Advocate Christ Medical Center,6432413,6432413,IHQCANC,49.6/100,,,,adult,2023-01-04 20:29:21.680567
+71,Henry Ford Hospital,6440650,6440650,IHQCANC,49.5/100,,,,adult,2023-01-04 20:29:21.680567
+72,Tampa General Hospital,6391060,6391060,IHQCANC,49.5/100,,,,adult,2023-01-04 20:29:21.680567
+73,UNC Hospitals,6360260,6360260,IHQCANC,49.4/100,,,,adult,2023-01-04 20:29:21.680567
+74,Presbyterian-St. Luke's Medical Center,6840365,6840365,IHQCANC,49.1/100,,,,adult,2023-01-04 20:29:21.680567
+75,Roswell Park Comprehensive Cancer Center,6211120,6211120,IHQCANC,48.9/100,,,,adult,2023-01-04 20:29:21.680567
+76,Northwestern Medicine Lake Forest Hospital,6432060,6432060,IHQCANC,48.8/100,,,,adult,2023-01-04 20:29:21.680567
+77,University Health-San Antonio,6743105,6743105,IHQCANC,48.1/100,,,,adult,2023-01-04 20:29:21.680567
+78,WVU Cancer Institute,6350007,6350007,IHQCANC,48.0/100,,,,adult,2023-01-04 20:29:21.680567
+79,Emory St. Joseph's Hospital,6380200,6380200,IHQCANC,47.6/100,,,,adult,2023-01-04 20:29:21.680567
+80,Rutgers Cancer Institute of New Jersey/Robert Wood Johnson University Hospital,6220920,6220920,IHQCANC,47.6/100,,,,adult,2023-01-04 20:29:21.680567
+81,Boston Medical Center,6140010,6140010,IHQCANC,47.4/100,,,,adult,2023-01-04 20:29:21.680567
+82,MemorialCare Long Beach Medical Center,6931370,6931370,IHQCANC,47.4/100,,,,adult,2023-01-04 20:29:21.680567
+83,Hackensack University Medical Center at Hackensack Meridian Health,6220340,6220340,IHQCANC,47.3/100,,,,adult,2023-01-04 20:29:21.680567
+84,MedStar Washington Hospital Center,6330120,6330120,IHQCANC,47.3/100,,,,adult,2023-01-04 20:29:21.680567
+85,West Penn Hospital,6232690,6232690,IHQCANC,47.2/100,,,,adult,2023-01-04 20:29:21.680567
+86,MemorialCare Orange Coast Medical Center,6930775,6930775,IHQCANC,47.1/100,,,,adult,2023-01-04 20:29:21.680567
+87,Beaumont Hospital-Royal Oak,6442245,6442245,IHQCANC,47.0/100,,,,adult,2023-01-04 20:29:21.680567
+88,Scripps La Jolla Hospitals,6931130,6931130,IHQCANC,47.0/100,,,,adult,2023-01-04 20:29:21.680567
+89,Banner Gateway Medical Center,6860043,6860043,IHQCANC,46.9/100,,,,adult,2023-01-04 20:29:21.680567
+90,MetroHealth Medical Center,6410655,6410655,IHQCANC,46.9/100,,,,adult,2023-01-04 20:29:21.680567
+91,Atrium Health Wake Forest Baptist Medical Center,6361700,6361700,IHQCANC,46.5/100,,,,adult,2023-01-04 20:29:21.680567
+92,Northside Hospital Atlanta,6380171,6380171,IHQCANC,46.5/100,,,,adult,2023-01-04 20:29:21.680567
+93,Loyola University Medical Center,6430841,6430841,IHQCANC,46.4/100,,,,adult,2023-01-04 20:29:21.680567
+94,Banner-University Medical Center Tucson,6860516,6860516,IHQCANC,46.2/100,,,,adult,2023-01-04 20:29:21.680567
+95,University Medical Center-Lubbock,6742372,6742372,IHQCANC,46.2/100,,,,adult,2023-01-04 20:29:21.680567
+96,UF Health Shands Hospital,6390283,6390283,IHQCANC,45.8/100,,,,adult,2023-01-04 20:29:21.680567
+97,Penn State Health Milton S. Hershey Medical Center,6230705,6230705,IHQCANC,45.6/100,,,,adult,2023-01-04 20:29:21.680567
+98,OU Health Stephenson Cancer Center,6730024,6730024,IHQCANC,45.5/100,,,,adult,2023-01-04 20:29:21.680567
+99,Providence Saint John's Health Center,6933450,6933450,IHQCANC,45.3/100,,,,adult,2023-01-04 20:29:21.680567
+100,Avera McKennan Hospital and University Health Center,6650420,6650420,IHQCANC,45.2/100,,,,adult,2023-01-04 20:29:21.680567
+101,Emory University Hospital Midtown,6380080,6380080,IHQCANC,45.2/100,,,,adult,2023-01-04 20:29:21.680567
+102,Tufts Medical Center,6140465,6140465,IHQCANC,45.2/100,,,,adult,2023-01-04 20:29:21.680567
+103,Mount Sinai Morningside and Mount Sinai West Hospitals,6213335,6213335,IHQCANC,45.1/100,,,,adult,2023-01-04 20:29:21.680567
+104,Cleveland Clinic Hillcrest Hospital,6410945,6410945,IHQCANC,45.0/100,,,,adult,2023-01-04 20:29:21.680567
+105,Stony Brook University Hospital,6214775,6214775,IHQCANC,45.0/100,,,,adult,2023-01-04 20:29:21.680567
+106,Advocate Illinois Masonic Medical Center,6430024,6430024,IHQCANC,44.7/100,,,,adult,2023-01-04 20:29:21.680567
+107,Morristown Medical Center,6220680,6220680,IHQCANC,44.7/100,,,,adult,2023-01-04 20:29:21.680567
+108,Piedmont Atlanta Hospital,6380180,6380180,IHQCANC,44.7/100,,,,adult,2023-01-04 20:29:21.680567
+109,Sharp Memorial Hospital,6932785,6932785,IHQCANC,44.7/100,,,,adult,2023-01-04 20:29:21.680567
+110,NorthShore University Health System-Metro Chicago,6430021,6430021,IHQCANC,44.4/100,,,,adult,2023-01-04 20:29:21.680567
+111,University of New Mexico Hospitals,6850037,6850037,IHQCANC,44.3/100,,,,adult,2023-01-04 20:29:21.680567
+112,Saint Luke's Cancer Institute,6630470,6630470,IHQCANC,44.2/100,,,,adult,2023-01-04 20:29:21.680567
+113,Sentara Norfolk General Hospital,6340620,6340620,IHQCANC,44.2/100,,,,adult,2023-01-04 20:29:21.680567
+114,Indiana University Health Medical Center,6420020,6420020,IHQCANC,44.1/100,,,,adult,2023-01-04 20:29:21.680567
+115,Karmanos Cancer Center,6440043,6440043,IHQCANC,43.9/100,,,,adult,2023-01-04 20:29:21.680567
+116,Froedtert Hospital and the Medical College of Wisconsin,6452115,6452115,IHQCANC,43.8/100,,,,adult,2023-01-04 20:29:21.680567
+117,Hoag Memorial Hospital Presbyterian,6932115,6932115,IHQCANC,43.6/100,,,,adult,2023-01-04 20:29:21.680567
+118,Baylor Scott and White Medical Center-Temple,6743413,6743413,IHQCANC,43.5/100,,,,adult,2023-01-04 20:29:21.680567
+119,Torrance Memorial Medical Center,6933679,6933679,IHQCANC,43.5/100,,,,adult,2023-01-04 20:29:21.680567
+120,Upstate University Hospital,6214885,6214885,IHQCANC,43.4/100,,,,adult,2023-01-04 20:29:21.680567
+121,Phelps Memorial Hospital Center at Northwell Health,6213870,6213870,IHQCANC,43.3/100,,,,adult,2023-01-04 20:29:21.680567
+122,Stormont Vail Hospital,6671025,6671025,IHQCANC,43.2/100,,,,adult,2023-01-04 20:29:21.680567
+123,Mount Sinai Beth Israel Hospital,6212655,6212655,IHQCANC,43.1/100,,,,adult,2023-01-04 20:29:21.680567
+124,Marin General Hospital,6933370,6933370,IHQCANC,43.0/100,,,,adult,2023-01-04 20:29:21.680567
+125,Inova Fairfax Hospital,6340490,6340490,IHQCANC,42.9/100,,,,adult,2023-01-04 20:29:21.680567
+126,Lancaster General Hospital,6231120,6231120,IHQCANC,42.9/100,,,,adult,2023-01-04 20:29:21.680567
+127,Sky Ridge Medical Center,6840023,6840023,IHQCANC,42.9/100,,,,adult,2023-01-04 20:29:21.680567
+128,UNC Rex Hospital,6361210,6361210,IHQCANC,42.9/100,,,,adult,2023-01-04 20:29:21.680567
+129,Baptist Health Cancer Care,6390994,6390994,IHQCANC,42.8/100,,,,adult,2023-01-04 20:29:21.680567
+130,John Muir Health-Concord Medical Center,6930480,6930480,IHQCANC,42.6/100,,,,adult,2023-01-04 20:29:21.680567
+131,John Muir Health-Walnut Creek Medical Center,6933853,6933853,IHQCANC,42.5/100,,,,adult,2023-01-04 20:29:21.680567
+132,Cleveland Clinic Weston,6390205,6390205,IHQCANC,42.4/100,,,,adult,2023-01-04 20:29:21.680567
+133,Advocate Lutheran General Hospital,6430405,6430405,IHQCANC,42.3/100,,,,adult,2023-01-04 20:29:21.680567
+134,Greater Baltimore Medical Center,6320125,6320125,IHQCANC,42.2/100,,,,adult,2023-01-04 20:29:21.680567
+135,Covenant Medical Center-Lubbock,6742360,6742360,IHQCANC,42.1/100,,,,adult,2023-01-04 20:29:21.680567
+136,Banner-University Medical Center Phoenix,6860250,6860250,IHQCANC,42.0/100,,,,adult,2023-01-04 20:29:21.680567
+137,Saint Joseph Hospital-Lexington,6510440,6510440,IHQCANC,41.9/100,,,,adult,2023-01-04 20:29:21.680567
+138,Staten Island University Hospital at Northwell Health,6214735,6214735,IHQCANC,41.9/100,,,,adult,2023-01-04 20:29:21.680567
+139,Main Line Health Paoli Hospital,6233430,6233430,IHQCANC,41.8/100,,,,adult,2023-01-04 20:29:21.680567
+140,Medical City Dallas,6741025,6741025,IHQCANC,41.6/100,,,,adult,2023-01-04 20:29:21.680567
+141,Abbott Northwestern Hospital,6610815,6610815,IHQCANC,41.4/100,,,,adult,2023-01-04 20:29:21.680567
+142,Houston Methodist Willowbrook Hospital,6740204,6740204,IHQCANC,41.4/100,,,,adult,2023-01-04 20:29:21.680567
+143,Memorial Hospital West,6390034,6390034,IHQCANC,41.3/100,,,,adult,2023-01-04 20:29:21.680567
+144,Dell Seton Medical Center at the University of Texas,6741110,6741110,IHQCANC,41.2/100,,,,adult,2023-01-04 20:29:21.680567
+145,Intermountain LDS Hospital,6870260,6870260,IHQCANC,41.2/100,,,,adult,2023-01-04 20:29:21.680567
+146,Providence Portland Medical Center,6920520,6920520,IHQCANC,41.1/100,,,,adult,2023-01-04 20:29:21.680567
+147,Advocate Sherman Hospital,6431610,6431610,IHQCANC,41.0/100,,,,adult,2023-01-04 20:29:21.680567
+148,Aurora St. Luke's Medical Center,6450017,6450017,IHQCANC,41.0/100,,,,adult,2023-01-04 20:29:21.680567
+149,Las Palmas Medical Center,6741315,6741315,IHQCANC,41.0/100,,,,adult,2023-01-04 20:29:21.680567
+150,Westchester Medical Center,6215150,6215150,IHQCANC,41.0/100,,,,adult,2023-01-04 20:29:21.680567
+151,Amita Health Adventist La Grange Medical Center,6432055,6432055,IHQCANC,40.9/100,,,,adult,2023-01-04 20:29:21.680567
+152,Beaumont Hospital-Dearborn,6440405,6440405,IHQCANC,40.9/100,,,,adult,2023-01-04 20:29:21.680567
+153,Beaumont Hospital-Grosse Pointe,6441260,6441260,IHQCANC,40.9/100,,,,adult,2023-01-04 20:29:21.680567
+154,Methodist Hospitals of Memphis,6520785,6520785,IHQCANC,40.9/100,,,,adult,2023-01-04 20:29:21.680567
+155,Good Samaritan Hospital-Cincinnati,6410490,6410490,IHQCANC,40.8/100,,,,adult,2023-01-04 20:29:21.680567
+156,Henry Mayo Newhall Hospital,6933488,6933488,IHQCANC,40.7/100,,,,adult,2023-01-04 20:29:21.680567
+157,Eisenhower Medical Center,6932324,6932324,IHQCANC,40.6/100,,,,adult,2023-01-04 20:29:21.680567
+158,George Washington University Hospital,6330140,6330140,IHQCANC,40.6/100,,,,adult,2023-01-04 20:29:21.680567
+159,Adventist Health Glendale,6930831,6930831,IHQCANC,40.5/100,,,,adult,2023-01-04 20:29:21.680567
+160,Missouri Baptist Medical Center,6631100,6631100,IHQCANC,40.5/100,,,,adult,2023-01-04 20:29:21.680567
+161,Temple University Hospital,6232300,6232300,IHQCANC,40.5/100,,,,adult,2023-01-04 20:29:21.680567
+162,Duke Regional Hospital,6360440,6360440,IHQCANC,40.4/100,,,,adult,2023-01-04 20:29:21.680567
+163,Sanford Medical Center Fargo,6640180,6640180,IHQCANC,40.3/100,,,,adult,2023-01-04 20:29:21.680567
+164,UAMS Medical Center,6710440,6710440,IHQCANC,40.3/100,,,,adult,2023-01-04 20:29:21.680567
+165,Lehigh Valley Hospital-Cedar Crest,6230013,6230013,IHQCANC,40.2/100,,,,adult,2023-01-04 20:29:21.680567
+166,Rhode Island Hospital,6150150,6150150,IHQCANC,40.2/100,,,,adult,2023-01-04 20:29:21.680567
+167,Memorial Hermann Greater Heights Hospital,6741952,6741952,IHQCANC,40.1/100,,,,adult,2023-01-04 20:29:21.680567
+168,Methodist Richardson Medical Center,6742911,6742911,IHQCANC,40.1/100,,,,adult,2023-01-04 20:29:21.680567
+169,Banner Del E. Webb Medical Center,6860430,6860430,IHQCANC,40.0/100,,,,adult,2023-01-04 20:29:21.680567
+170,Augusta University Medical Center,6380254,6380254,IHQCANC,39.9/100,,,,adult,2023-01-04 20:29:21.680567
+171,Providence Holy Cross Medical Center,6932860,6932860,IHQCANC,39.9/100,,,,adult,2023-01-04 20:29:21.680567
+172,Ochsner Medical Center,6720631,6720631,IHQCANC,39.8/100,,,,adult,2023-01-04 20:29:21.680567
+173,St. Luke's University Hospital-Bethlehem Campus,6230049,6230049,IHQCANC,39.8/100,,,,adult,2023-01-04 20:29:21.680567
+174,University of Illinois Hospital,6430553,6430553,IHQCANC,39.8/100,,,,adult,2023-01-04 20:29:21.680567
+175,Advocate Good Shepherd Hospital,6430160,6430160,IHQCANC,39.7/100,,,,adult,2023-01-04 20:29:21.680567
+176,Cooperman Barnabas Medical Center,6220800,6220800,IHQCANC,39.7/100,,,,adult,2023-01-04 20:29:21.680567
+177,Ascension St. Alexius Hospital,6431926,6431926,IHQCANC,39.5/100,,,,adult,2023-01-04 20:29:21.680567
+178,Carle Foundation Hospital,6433070,6433070,IHQCANC,39.5/100,,,,adult,2023-01-04 20:29:21.680567
+179,Kaiser Permanente San Francisco Medical Center,6930015,6930015,IHQCANC,39.5/100,,,,adult,2023-01-04 20:29:21.680567
+180,Piedmont Fayette Hospital,6380024,6380024,IHQCANC,39.5/100,,,,adult,2023-01-04 20:29:21.680567
+181,Pennsylvania Hospital,6230022,6230022,IHQCANC,39.4/100,,,,adult,2023-01-04 20:29:21.680567
+182,Swedish First Hill Hospital,6910006,6910006,IHQCANC,39.4/100,,,,adult,2023-01-04 20:29:21.680567
+183,ECU Health Medical Center,6360690,6360690,IHQCANC,39.2/100,,,,adult,2023-01-04 20:29:21.680567
+184,HonorHealth Scottsdale Shea Medical Center,6860395,6860395,IHQCANC,39.1/100,,,,adult,2023-01-04 20:29:21.680567
+185,UF Health Jacksonville,6390082,6390082,IHQCANC,39.1/100,,,,adult,2023-01-04 20:29:21.680567
+186,Chester County Hospital,6233400,6233400,IHQCANC,39.0/100,,,,adult,2023-01-04 20:29:21.680567
+187,Cleveland Clinic Akron General,6410010,6410010,IHQCANC,39.0/100,,,,adult,2023-01-04 20:29:21.680567
+188,Research Medical Center,6630435,6630435,IHQCANC,38.9/100,,,,adult,2023-01-04 20:29:21.680567
+189,UPMC Passavant,6232540,6232540,IHQCANC,38.9/100,,,,adult,2023-01-04 20:29:21.680567
+190,Virginia Mason Medical Center,6910780,6910780,IHQCANC,38.9/100,,,,adult,2023-01-04 20:29:21.680567
+191,Kaiser Permanente Sunnyside Medical Center,6920045,6920045,IHQCANC,38.8/100,,,,adult,2023-01-04 20:29:21.680567
+192,Memorial Hermann Hospital,6741890,6741890,IHQCANC,38.8/100,,,,adult,2023-01-04 20:29:21.680567
+193,Ascension Providence Hospital-Southfield,6440780,6440780,IHQCANC,38.7/100,,,,adult,2023-01-04 20:29:21.680567
+194,Sentara Virginia Beach General Hospital,6341162,6341162,IHQCANC,38.7/100,,,,adult,2023-01-04 20:29:21.680567
+195,Baptist Memorial Hospital-Memphis,6520681,6520681,IHQCANC,38.6/100,,,,adult,2023-01-04 20:29:21.680567
+196,Kaiser Permanente Fontana and Ontario Medical Centers,6930737,6930737,IHQCANC,38.6/100,,,,adult,2023-01-04 20:29:21.680567
+197,Providence St. Jude Medical Center,6930823,6930823,IHQCANC,38.6/100,,,,adult,2023-01-04 20:29:21.680567
+198,SCL Health St. Joseph Hospital,6840400,6840400,IHQCANC,38.6/100,,,,adult,2023-01-04 20:29:21.680567
+199,Providence Mission Hospital-Mission Viejo and Laguna Beach,6931915,6931915,IHQCANC,38.5/100,,,,adult,2023-01-04 20:29:21.680567
+200,UMass Memorial Medical Center,6141095,6141095,IHQCANC,38.4/100,,,,adult,2023-01-04 20:29:21.680567
+201,Brigham and Women's Faulkner Hospital,6140310,6140310,IHQCANC,38.3/100,,,,adult,2023-01-04 20:29:21.680567
+202,ChristianaCare Hospitals,6310120,6310120,IHQCANC,38.3/100,,,,adult,2023-01-04 20:29:21.680567
+203,Jefferson Health-Abington Hospital,6230010,6230010,IHQCANC,38.3/100,,,,adult,2023-01-04 20:29:21.680567
+204,Inova Loudoun Hospital,6340400,6340400,IHQCANC,38.2/100,,,,adult,2023-01-04 20:29:21.680567
+205,Kaiser Permanente Downey Medical Center,6930243,6930243,IHQCANC,38.2/100,,,,adult,2023-01-04 20:29:21.680567
+206,Johns Hopkins Bayview Medical Center,6320050,6320050,IHQCANC,38.1/100,,,,adult,2023-01-04 20:29:21.680567
+207,Kaiser Permanente San Diego Zion and San Diego Medical Center,6931173,6931173,IHQCANC,38.1/100,,,,adult,2023-01-04 20:29:21.680567
+208,Providence Alaska Medical Center,6940020,6940020,IHQCANC,38.1/100,,,,adult,2023-01-04 20:29:21.680567
+209,Providence St. Joseph Hospital-Orange,6932300,6932300,IHQCANC,38.1/100,,,,adult,2023-01-04 20:29:21.680567
+210,Providence St. Joseph Medical Center-Burbank,6930340,6930340,IHQCANC,38.1/100,,,,adult,2023-01-04 20:29:21.680567
+211,Advent Health Shawnee Mission,6670783,6670783,IHQCANC,38.0/100,,,,adult,2023-01-04 20:29:21.680567
+212,Porter Adventist Hospital,6840360,6840360,IHQCANC,38.0/100,,,,adult,2023-01-04 20:29:21.680567
+213,Billings Clinic,6810020,6810020,IHQCANC,37.9/100,,,,adult,2023-01-04 20:29:21.680567
+214,Memorial Regional Hospital,6390295,6390295,IHQCANC,37.8/100,,,,adult,2023-01-04 20:29:21.680567
+215,Methodist Dallas Medical Center,6741018,6741018,IHQCANC,37.8/100,,,,adult,2023-01-04 20:29:21.680567
+216,Penn Medicine Princeton Medical Center,6221190,6221190,IHQCANC,37.8/100,,,,adult,2023-01-04 20:29:21.680567
+217,St. David's South Austin Medical Center,6740095,6740095,IHQCANC,37.8/100,,,,adult,2023-01-04 20:29:21.680567
+218,Banner Estrella Medical Center,6860036,6860036,IHQCANC,37.7/100,,,,adult,2023-01-04 20:29:21.680567
+219,Swedish Medical Center,6840530,6840530,IHQCANC,37.7/100,,,,adult,2023-01-04 20:29:21.680567
+220,Texas Health Harris Methodist Hospital Southwest,6741445,6741445,IHQCANC,37.7/100,,,,adult,2023-01-04 20:29:21.680567
+221,Advocate Condell Medical Center,6432080,6432080,IHQCANC,37.5/100,,,,adult,2023-01-04 20:29:21.680567
+222,Geisinger Wyoming Valley Medical Center,6232725,6232725,IHQCANC,37.5/100,,,,adult,2023-01-04 20:29:21.680567
+223,Jewish Hospital-Mercy Health,6419060,6419060,IHQCANC,37.5/100,,,,adult,2023-01-04 20:29:21.680567
+224,Chesapeake Regional Medical Center,6340145,6340145,IHQCANC,37.4/100,,,,adult,2023-01-04 20:29:21.680567
+225,Baylor Scott and White All Saints Medical Center-Fort Worth,6741390,6741390,IHQCANC,37.3/100,,,,adult,2023-01-04 20:29:21.680567
+226,Medical City Plano,6742865,6742865,IHQCANC,37.3/100,,,,adult,2023-01-04 20:29:21.680567
+227,New York-Presbyterian Brooklyn Methodist Hospital,6210555,6210555,IHQCANC,37.3/100,,,,adult,2023-01-04 20:29:21.680567
+228,WellStar Kennestone Hospital,6380775,6380775,IHQCANC,37.3/100,,,,adult,2023-01-04 20:29:21.680567
+229,Main Line Health Lankenau Medical Center,6231970,6231970,IHQCANC,37.2/100,,,,adult,2023-01-04 20:29:21.680567
+230,Northside Hospital Cherokee,6380382,6380382,IHQCANC,37.1/100,,,,adult,2023-01-04 20:29:21.680567
+231,Salem Hospital,6920708,6920708,IHQCANC,37.1/100,,,,adult,2023-01-04 20:29:21.680567
+232,Advocate Good Samaritan Hospital,6431475,6431475,IHQCANC,36.9/100,,,,adult,2023-01-04 20:29:21.680567
+233,Cleveland Clinic Fairview Hospital,6410710,6410710,IHQCANC,36.9/100,,,,adult,2023-01-04 20:29:21.680567
+234,Inova Alexandria Hospital,6340020,6340020,IHQCANC,36.9/100,,,,adult,2023-01-04 20:29:21.680567
+235,Spectrum Health-Butterworth and Blodgett Campuses,6440021,6440021,IHQCANC,36.9/100,,,,adult,2023-01-04 20:29:21.680567
+236,St. Peter's Hospital-Albany,6210070,6210070,IHQCANC,36.9/100,,,,adult,2023-01-04 20:29:21.680567
+237,Trinity Health Ann Arbor Hospital,6440087,6440087,IHQCANC,36.9/100,,,,adult,2023-01-04 20:29:21.680567
+238,Trinity Health Grand Rapids Hospital,6441210,6441210,IHQCANC,36.9/100,,,,adult,2023-01-04 20:29:21.680567
+239,Beaumont Hospital-Troy,6442463,6442463,IHQCANC,36.8/100,,,,adult,2023-01-04 20:29:21.680567
+240,Bridgeport Hospital,6160002,6160002,IHQCANC,36.8/100,,,,adult,2023-01-04 20:29:21.680567
+241,Sanford USD Medical Center,6650007,6650007,IHQCANC,36.8/100,,,,adult,2023-01-04 20:29:21.680567
+242,OhioHealth Grant Medical Center,6411010,6411010,IHQCANC,36.7/100,,,,adult,2023-01-04 20:29:21.680567
+243,St. Luke's Hospital-Chesterfield,6630075,6630075,IHQCANC,36.7/100,,,,adult,2023-01-04 20:29:21.680567
+244,Texas Health Presbyterian Hospital Plano,6740945,6740945,IHQCANC,36.7/100,,,,adult,2023-01-04 20:29:21.680567
+245,Overlook Medical Center,6221370,6221370,IHQCANC,36.6/100,,,,adult,2023-01-04 20:29:21.680567
+246,Sinai Hospital of Baltimore,6320280,6320280,IHQCANC,36.6/100,,,,adult,2023-01-04 20:29:21.680567
+247,Virtua Voorhees Hospital,6221600,6221600,IHQCANC,36.6/100,,,,adult,2023-01-04 20:29:21.680567
+248,Albany Medical Center,6210030,6210030,IHQCANC,36.5/100,,,,adult,2023-01-04 20:29:21.680567
+249,Good Samaritan University Hospital,6215295,6215295,IHQCANC,36.5/100,,,,adult,2023-01-04 20:29:21.680567
+250,Elmhurst Hospital,6431620,6431620,IHQCANC,36.4/100,,,,adult,2023-01-04 20:29:21.680567
+251,UCHealth Medical Center of the Rockies,6840033,6840033,IHQCANC,36.4/100,,,,adult,2023-01-04 20:29:21.680567
+252,University Hospital-Augusta,6380270,6380270,IHQCANC,36.4/100,,,,adult,2023-01-04 20:29:21.680567
+253,Baptist Health Floyd,6421045,6421045,IHQCANC,36.2/100,,,,adult,2023-01-04 20:29:21.680567
+254,Christian Hospital,6630185,6630185,IHQCANC,36.2/100,,,,adult,2023-01-04 20:29:21.680567
+255,John H. Stroger Jr. Hospital of Cook County,6430600,6430600,IHQCANC,36.2/100,,,,adult,2023-01-04 20:29:21.680567
+256,Ascension St. John Hospital,6440805,6440805,IHQCANC,36.1/100,,,,adult,2023-01-04 20:29:21.680567
+257,Community Hospital of the Monterey Peninsula,6930385,6930385,IHQCANC,36.1/100,,,,adult,2023-01-04 20:29:21.680567
+258,Grady Memorial Hospital,6380130,6380130,IHQCANC,36.1/100,,,,adult,2023-01-04 20:29:21.680567
+259,Huntington Hospital at Northwell Health,6211880,6211880,IHQCANC,36.1/100,,,,adult,2023-01-04 20:29:21.680567
+260,OhioHealth Riverside Methodist Hospital,6411110,6411110,IHQCANC,36.1/100,,,,adult,2023-01-04 20:29:21.680567
+261,PIH Health Good Samaritan Hospital,6931540,6931540,IHQCANC,36.1/100,,,,adult,2023-01-04 20:29:21.680567
+262,TidalHealth Peninsula Regional Hospital,6320785,6320785,IHQCANC,36.0/100,,,,adult,2023-01-04 20:29:21.680567
+263,Prisma Health Greenville Memorial Hospital,6370323,6370323,IHQCANC,35.9/100,,,,adult,2023-01-04 20:29:21.680567
+264,Providence St. Vincent Medical Center,6920540,6920540,IHQCANC,35.9/100,,,,adult,2023-01-04 20:29:21.680567
+265,Renown Regional Medical Center,6880130,6880130,IHQCANC,35.9/100,,,,adult,2023-01-04 20:29:21.680567
+266,St. Joseph's University Medical Center,6221120,6221120,IHQCANC,35.9/100,,,,adult,2023-01-04 20:29:21.680567
+267,Ascension Seton Medical Center Austin,6740200,6740200,IHQCANC,35.8/100,,,,adult,2023-01-04 20:29:21.680567
+268,Mount Carmel St. Ann's Hospital,6411060,6411060,IHQCANC,35.8/100,,,,adult,2023-01-04 20:29:21.680567
+269,Swedish Hospital,6431180,6431180,IHQCANC,35.8/100,,,,adult,2023-01-04 20:29:21.680567
+270,Tulane Health System-New Orleans,6720032,6720032,IHQCANC,35.8/100,,,,adult,2023-01-04 20:29:21.680567
+271,Ascension Providence Rochester Hospital,6442198,6442198,IHQCANC,35.7/100,,,,adult,2023-01-04 20:29:21.680567
+272,Holy Name Medical Center,6221390,6221390,IHQCANC,35.7/100,,,,adult,2023-01-04 20:29:21.680567
+273,UCHealth Memorial Hospital,6840190,6840190,IHQCANC,35.6/100,,,,adult,2023-01-04 20:29:21.680567
+274,Littleton Adventist Hospital,6840805,6840805,IHQCANC,35.5/100,,,,adult,2023-01-04 20:29:21.680567
+275,UPMC Western Maryland,6320206,6320206,IHQCANC,35.5/100,,,,adult,2023-01-04 20:29:21.680567
+276,Geisinger Medical Center,6230550,6230550,IHQCANC,35.4/100,,,,adult,2023-01-04 20:29:21.680567
+277,Houston Methodist Sugar Land Hospital,6740138,6740138,IHQCANC,35.3/100,,,,adult,2023-01-04 20:29:21.680567
+278,Mount Sinai South Nassau Hospital,6213735,6213735,IHQCANC,35.3/100,,,,adult,2023-01-04 20:29:21.680567
+279,Northwest Community Hospital,6432485,6432485,IHQCANC,35.3/100,,,,adult,2023-01-04 20:29:21.680567
+280,Sharp Grossmont Hospital,6930887,6930887,IHQCANC,35.3/100,,,,adult,2023-01-04 20:29:21.680567
+281,UPMC Hamot,6230760,6230760,IHQCANC,35.3/100,,,,adult,2023-01-04 20:29:21.680567
+282,Vassar Brothers Medical Center,6214140,6214140,IHQCANC,35.3/100,,,,adult,2023-01-04 20:29:21.680567
+283,Ascension Macomb-Oakland Hospital,6440489,6440489,IHQCANC,35.2/100,,,,adult,2023-01-04 20:29:21.680567
+284,Intermountain Medical Center,6870141,6870141,IHQCANC,35.2/100,,,,adult,2023-01-04 20:29:21.680567
+285,Mayo Clinic Eau Claire,6450310,6450310,IHQCANC,35.2/100,,,,adult,2023-01-04 20:29:21.680567
+286,Medical Center of Aurora,6840014,6840014,IHQCANC,35.2/100,,,,adult,2023-01-04 20:29:21.680567
+287,Monmouth Medical Center-Long Branch Campus,6220560,6220560,IHQCANC,35.2/100,,,,adult,2023-01-04 20:29:21.680567
+288,South Shore University Hospital at Northwell Health,6210280,6210280,IHQCANC,35.2/100,,,,adult,2023-01-04 20:29:21.680567
+289,Sparks Regional Medical Center,6710220,6710220,IHQCANC,35.2/100,,,,adult,2023-01-04 20:29:21.680567
+290,UPMC Harrisburg,6230039,6230039,IHQCANC,35.1/100,,,,adult,2023-01-04 20:29:21.680567
+291,Huntington Hospital,6932350,6932350,IHQCANC,35.0/100,,,,adult,2023-01-04 20:29:21.680567
+292,Methodist Hospital of Southern California,6931630,6931630,IHQCANC,35.0/100,,,,adult,2023-01-04 20:29:21.680567
+293,Methodist Hospital-San Antonio,6743122,6743122,IHQCANC,35.0/100,,,,adult,2023-01-04 20:29:21.680567
+294,University of Cincinnati Medical Center,6410435,6410435,IHQCANC,35.0/100,,,,adult,2023-01-04 20:29:21.680567
+295,Valley Hospital,6221235,6221235,IHQCANC,35.0/100,,,,adult,2023-01-04 20:29:21.680567
+296,Englewood Hospital,6220280,6220280,IHQCANC,34.9/100,,,,adult,2023-01-04 20:29:21.680567
+297,Parkview Regional Medical Center,6429153,6429153,IHQCANC,34.9/100,,,,adult,2023-01-04 20:29:21.680567
+298,Santa Barbara Cottage Hospital,6933375,6933375,IHQCANC,34.9/100,,,,adult,2023-01-04 20:29:21.680567
+299,Ascension St. Vincent Hospital,6420715,6420715,IHQCANC,34.8/100,,,,adult,2023-01-04 20:29:21.680567
+300,Bethesda North Hospital,6410382,6410382,IHQCANC,34.8/100,,,,adult,2023-01-04 20:29:21.680567
+301,Johns Hopkins Medicine-Sibley Memorial Hospital,6330210,6330210,IHQCANC,34.8/100,,,,adult,2023-01-04 20:29:21.680567
+302,Saratoga Hospital,6214520,6214520,IHQCANC,34.8/100,,,,adult,2023-01-04 20:29:21.680567
+303,St. David's Medical Center,6740190,6740190,IHQCANC,34.8/100,,,,adult,2023-01-04 20:29:21.680567
+304,St. Joseph's Hospital and Medical Center,6860280,6860280,IHQCANC,34.8/100,,,,adult,2023-01-04 20:29:21.680567
+305,Memorial Hermann Memorial City Medical Center,6741970,6741970,IHQCANC,34.6/100,,,,adult,2023-01-04 20:29:21.680567
+306,UCHealth Poudre Valley Hospital,6840018,6840018,IHQCANC,34.6/100,,,,adult,2023-01-04 20:29:21.680567
+307,Johns Hopkins Medicine-Suburban Hospital,6320350,6320350,IHQCANC,34.5/100,,,,adult,2023-01-04 20:29:21.680567
+308,Baystate Medical Center,6141955,6141955,IHQCANC,34.4/100,,,,adult,2023-01-04 20:29:21.680567
+309,Ocean University Medical Center at Hackensack Meridian Health,6221170,6221170,IHQCANC,34.4/100,,,,adult,2023-01-04 20:29:21.680567
+310,Willis-Knighton Medical Center,6720877,6720877,IHQCANC,34.4/100,,,,adult,2023-01-04 20:29:21.680567
+311,Bronson Methodist Hospital,6441550,6441550,IHQCANC,34.3/100,,,,adult,2023-01-04 20:29:21.680567
+312,Carilion Roanoke Memorial Hospital,6341040,6341040,IHQCANC,34.3/100,,,,adult,2023-01-04 20:29:21.680567
+313,Kaiser Permanente Moanalua Medical Center,6950330,6950330,IHQCANC,34.3/100,,,,adult,2023-01-04 20:29:21.680567
+314,Los Alamitos Medical Center,693139A,693139A,IHQCANC,34.3/100,,,,adult,2023-01-04 20:29:21.680567
+315,Main Line Health Bryn Mawr Hospital,6230260,6230260,IHQCANC,34.3/100,,,,adult,2023-01-04 20:29:21.680567
+316,Banner Desert Medical Center,6860016,6860016,IHQCANC,34.2/100,,,,adult,2023-01-04 20:29:21.680567
+317,Jackson Memorial Hospital,6390573,6390573,IHQCANC,34.1/100,,,,adult,2023-01-04 20:29:21.680567
+318,St. Joseph's Hospital-Tampa,6390053,6390053,IHQCANC,34.1/100,,,,adult,2023-01-04 20:29:21.680567
+319,University of Maryland Baltimore Washington Medical Center,6320569,6320569,IHQCANC,34.1/100,,,,adult,2023-01-04 20:29:21.680567
+320,Christus Southeast Texas Hospital-St. Elizabeth,6740258,6740258,IHQCANC,33.9/100,,,,adult,2023-01-04 20:29:21.680567
+321,East Jefferson General Hospital,6720418,6720418,IHQCANC,33.9/100,,,,adult,2023-01-04 20:29:21.680567
+322,St. Mary's Regional Medical Center-Reno,6880110,6880110,IHQCANC,33.9/100,,,,adult,2023-01-04 20:29:21.680567
+323,Legacy Good Samaritan Medical Center,6920418,6920418,IHQCANC,33.8/100,,,,adult,2023-01-04 20:29:21.680567
+324,Moses H. Cone Memorial Hospital,6360002,6360002,IHQCANC,33.8/100,,,,adult,2023-01-04 20:29:21.680567
+325,Overlake Medical Center and Clinics,6910060,6910060,IHQCANC,33.8/100,,,,adult,2023-01-04 20:29:21.680567
+326,Baptist Medical Center Jacksonville,6390308,6390308,IHQCANC,33.7/100,,,,adult,2023-01-04 20:29:21.680567
+327,Kaiser Permanente Anaheim and Irvine Medical Centers,6930075,6930075,IHQCANC,33.7/100,,,,adult,2023-01-04 20:29:21.680567
+328,Northern Westchester Hospital at Northwell Health,6212500,6212500,IHQCANC,33.7/100,,,,adult,2023-01-04 20:29:21.680567
+329,South Shore Hospital-South Weymouth,6141900,6141900,IHQCANC,33.7/100,,,,adult,2023-01-04 20:29:21.680567
+330,Texas Health Harris Methodist Hospital Fort Worth,6741440,6741440,IHQCANC,33.7/100,,,,adult,2023-01-04 20:29:21.680567
+331,Mount Sinai Medical Center,6390640,6390640,IHQCANC,33.6/100,,,,adult,2023-01-04 20:29:21.680567
+332,Northwestern Medicine Palos Hospital,6431060,6431060,IHQCANC,33.6/100,,,,adult,2023-01-04 20:29:21.680567
+333,Scripps Memorial Hospital-Encinitas,6930648,6930648,IHQCANC,33.6/100,,,,adult,2023-01-04 20:29:21.680567
+334,Doctors Hospital at Renaissance,6740232,6740232,IHQCANC,33.5/100,,,,adult,2023-01-04 20:29:21.680567
+335,MemorialCare Saddleback Medical Center,6930272,6930272,IHQCANC,33.5/100,,,,adult,2023-01-04 20:29:21.680567
+336,Mercy Health-Fairfield Hospital,6410855,6410855,IHQCANC,33.5/100,,,,adult,2023-01-04 20:29:21.680567
+337,New York-Presbyterian Queens Hospital,6211595,6211595,IHQCANC,33.5/100,,,,adult,2023-01-04 20:29:21.680567
+338,Our Lady of the Lake Regional Medical Center,6720028,6720028,IHQCANC,33.5/100,,,,adult,2023-01-04 20:29:21.680567
+339,St. Luke's Regional Medical Center,6820050,6820050,IHQCANC,33.5/100,,,,adult,2023-01-04 20:29:21.680567
+340,St. Mary's Medical Center-Huntington,6350400,6350400,IHQCANC,33.5/100,,,,adult,2023-01-04 20:29:21.680567
+341,MultiCare Tacoma General Hospital,6911018,6911018,IHQCANC,33.4/100,,,,adult,2023-01-04 20:29:21.680567
+342,St. Alphonsus Regional Medical Center,6820040,6820040,IHQCANC,33.4/100,,,,adult,2023-01-04 20:29:21.680567
+343,AdventHealth Hinsdale,6431920,6431920,IHQCANC,33.3/100,,,,adult,2023-01-04 20:29:21.680567
+344,Allegheny General Hospital,6230041,6230041,IHQCANC,33.3/100,,,,adult,2023-01-04 20:29:21.680567
+345,Ascension Alexian Brothers Hospital,6431613,6431613,IHQCANC,33.3/100,,,,adult,2023-01-04 20:29:21.680567
+346,Christus Mother Frances Hospital-Tyler,6743570,6743570,IHQCANC,33.3/100,,,,adult,2023-01-04 20:29:21.680567
+347,Lahey Hospital and Medical Center,6140690,6140690,IHQCANC,33.3/100,,,,adult,2023-01-04 20:29:21.680567
+348,Menorah Medical Center,6670020,6670020,IHQCANC,33.3/100,,,,adult,2023-01-04 20:29:21.680567
+349,Mercy San Juan Medical Center,6930037,6930037,IHQCANC,33.3/100,,,,adult,2023-01-04 20:29:21.680567
+350,Summa Health-Akron Campus,6410012,6410012,IHQCANC,33.3/100,,,,adult,2023-01-04 20:29:21.680567
+351,Virginia Mason Franciscan Health-St. Joseph Medical Center,6911060,6911060,IHQCANC,33.3/100,,,,adult,2023-01-04 20:29:21.680567
+352,Indiana University Health Arnett Hospital,6420076,6420076,IHQCANC,33.2/100,,,,adult,2023-01-04 20:29:21.680567
+353,JFK University Medical Center at Hackensack Meridian Health,6220247,6220247,IHQCANC,33.2/100,,,,adult,2023-01-04 20:29:21.680567
+354,Legacy Meridian Park Medical Center,6920805,6920805,IHQCANC,33.2/100,,,,adult,2023-01-04 20:29:21.680567
+355,Sarasota Memorial Hospital,6390052,6390052,IHQCANC,33.2/100,,,,adult,2023-01-04 20:29:21.680567
+356,The University of Tennessee Medical Center,6520575,6520575,IHQCANC,33.2/100,,,,adult,2023-01-04 20:29:21.680567
+357,University of Maryland St. Joseph Medical Center,6320260,6320260,IHQCANC,33.2/100,,,,adult,2023-01-04 20:29:21.680567
+358,Mississippi Baptist Medical Center,6540007,6540007,IHQCANC,33.1/100,,,,adult,2023-01-04 20:29:21.680567
+359,Danbury Hospital,6160100,6160100,IHQCANC,33.0/100,,,,adult,2023-01-04 20:29:21.680567
+360,Mercy Hospital St. Louis,6631165,6631165,IHQCANC,33.0/100,,,,adult,2023-01-04 20:29:21.680567
+361,MercyOne Des Moines Medical Center,6620003,6620003,IHQCANC,33.0/100,,,,adult,2023-01-04 20:29:21.680567
+362,Banner Thunderbird Medical Center,6860013,6860013,IHQCANC,32.9/100,,,,adult,2023-01-04 20:29:21.680567
+363,Bayhealth Kent General Hospital,6310007,6310007,IHQCANC,32.9/100,,,,adult,2023-01-04 20:29:21.680567
+364,Lafayette General Medical Center,6720340,6720340,IHQCANC,32.9/100,,,,adult,2023-01-04 20:29:21.680567
+365,Ochsner LSU Health Shreveport  Academic Medical Center,6720776,6720776,IHQCANC,32.9/100,,,,adult,2023-01-04 20:29:21.680567
+366,Riverview Medical Center at Hackensack Meridian Health,6221220,6221220,IHQCANC,32.9/100,,,,adult,2023-01-04 20:29:21.680567
+367,Winchester Medical Center,6341200,6341200,IHQCANC,32.9/100,,,,adult,2023-01-04 20:29:21.680567
+368,Aurora West Allis Medical Center,6452165,6452165,IHQCANC,32.8/100,,,,adult,2023-01-04 20:29:21.680567
+369,White Plains Hospital,6215330,6215330,IHQCANC,32.8/100,,,,adult,2023-01-04 20:29:21.680567
+370,Chippenham and Johnston-Willis Hospitals,6340009,6340009,IHQCANC,32.7/100,,,,adult,2023-01-04 20:29:21.680567
+371,Miami Valley Hospital,6411190,6411190,IHQCANC,32.7/100,,,,adult,2023-01-04 20:29:21.680567
+372,Winchester Hospital,6142280,6142280,IHQCANC,32.7/100,,,,adult,2023-01-04 20:29:21.680567
+373,Auxilio Mutuo Hospital,6040155,6040155,IHQCANC,32.6/100,,,,adult,2023-01-04 20:29:21.680567
+374,Edward Cancer Center,6432350,6432350,IHQCANC,32.6/100,,,,adult,2023-01-04 20:29:21.680567
+375,Kaiser Permanente Oakland and Richmond Medical Centers,6930067,6930067,IHQCANC,32.6/100,,,,adult,2023-01-04 20:29:21.680567
+376,Texas Health Presbyterian Hospital Dallas,6741050,6741050,IHQCANC,32.6/100,,,,adult,2023-01-04 20:29:21.680567
+377,Newark Beth Israel Medical Center,6220820,6220820,IHQCANC,32.5/100,,,,adult,2023-01-04 20:29:21.680567
+378,Cooper University Health Care-Camden,6220190,6220190,IHQCANC,32.4/100,,,,adult,2023-01-04 20:29:21.680567
+379,Enloe Medical Center,6930096,6930096,IHQCANC,32.4/100,,,,adult,2023-01-04 20:29:21.680567
+380,Reading Hospital,6233443,6233443,IHQCANC,32.4/100,,,,adult,2023-01-04 20:29:21.680567
+381,SSM Health St. Louis University Hospital,6631020,6631020,IHQCANC,32.4/100,,,,adult,2023-01-04 20:29:21.680567
+382,Centra Lynchburg General Hospital,6340013,6340013,IHQCANC,32.3/100,,,,adult,2023-01-04 20:29:21.680567
+383,Boone Hospital Center,6630130,6630130,IHQCANC,32.2/100,,,,adult,2023-01-04 20:29:21.680567
+384,Halifax Health Medical Center of Daytona Beach,6390056,6390056,IHQCANC,32.2/100,,,,adult,2023-01-04 20:29:21.680567
+385,HCA Houston Healthcare Clear Lake,6740149,6740149,IHQCANC,32.2/100,,,,adult,2023-01-04 20:29:21.680567
+386,Orlando Health-Orlando Regional Medical Center,6390695,6390695,IHQCANC,32.2/100,,,,adult,2023-01-04 20:29:21.680567
+387,WellSpan York Hospital,6233550,6233550,IHQCANC,32.2/100,,,,adult,2023-01-04 20:29:21.680567
+388,Cape Coral Hospital,6390068,6390068,IHQCANC,32.1/100,,,,adult,2023-01-04 20:29:21.680567
+389,Kaiser Permanente Riverside Medical Center,6932605,6932605,IHQCANC,32.1/100,,,,adult,2023-01-04 20:29:21.680567
+390,Houston Methodist West Hospital,6740878,6740878,IHQCANC,32.0/100,,,,adult,2023-01-04 20:29:21.680567
+391,Jefferson Hospital-Jefferson Hills,6230979,6230979,IHQCANC,32.0/100,,,,adult,2023-01-04 20:29:21.680567
+392,St. Luke's Cornwall Hospital,6210037,6210037,IHQCANC,32.0/100,,,,adult,2023-01-04 20:29:21.680567
+393,St. Peter's University Hospital,6220950,6220950,IHQCANC,32.0/100,,,,adult,2023-01-04 20:29:21.680567
+394,Sanford Medical Center Bismarck,6640020,6640020,IHQCANC,31.9/100,,,,adult,2023-01-04 20:29:21.680567
+395,Adventist Healthcare Shady Grove Medical Center,6320775,6320775,IHQCANC,31.8/100,,,,adult,2023-01-04 20:29:21.680567
+396,Nebraska Methodist Hospital,6660710,6660710,IHQCANC,31.8/100,,,,adult,2023-01-04 20:29:21.680567
+397,Norton Hospitals,6510488,6510488,IHQCANC,31.8/100,,,,adult,2023-01-04 20:29:21.680567
+398,UnityPoint Health-Iowa Methodist Medical Center,6620420,6620420,IHQCANC,31.7/100,,,,adult,2023-01-04 20:29:21.680567
+399,Jersey Shore University Medical Center at Hackensack Meridian Health,6220740,6220740,IHQCANC,31.6/100,,,,adult,2023-01-04 20:29:21.680567
+400,Mercy General Hospital,6932670,6932670,IHQCANC,31.6/100,,,,adult,2023-01-04 20:29:21.680567
+401,M Health Fairview Southdale Hospital,6610918,6610918,IHQCANC,31.6/100,,,,adult,2023-01-04 20:29:21.680567
+402,Scripps Mercy Hospital,6932810,6932810,IHQCANC,31.6/100,,,,adult,2023-01-04 20:29:21.680567
+403,St. Elizabeth Healthcare Edgewood-Covington Hospitals,6510110,6510110,IHQCANC,31.6/100,,,,adult,2023-01-04 20:29:21.680567
+404,Cabell Huntington Hospital,6350345,6350345,IHQCANC,31.5/100,,,,adult,2023-01-04 20:29:21.680567
+405,Creighton University Medical Center-Bergan Mercy,6660720,6660720,IHQCANC,31.5/100,,,,adult,2023-01-04 20:29:21.680567
+406,Baylor Scott and White Medical Center-Plano,6740259,6740259,IHQCANC,31.4/100,,,,adult,2023-01-04 20:29:21.680567
+407,CentraCare-St. Cloud Hospital,6611540,6611540,IHQCANC,31.4/100,,,,adult,2023-01-04 20:29:21.680567
+408,Glens Falls Hospital,6211670,6211670,IHQCANC,31.4/100,,,,adult,2023-01-04 20:29:21.680567
+409,North Kansas City Hospital,6630785,6630785,IHQCANC,31.4/100,,,,adult,2023-01-04 20:29:21.680567
+410,Christ Hospital,6410430,6410430,IHQCANC,31.3/100,,,,adult,2023-01-04 20:29:21.680567
+411,AdventHealth Tampa,6391103,6391103,IHQCANC,31.2/100,,,,adult,2023-01-04 20:29:21.680567
+412,McLeod Regional Medical Center,6370009,6370009,IHQCANC,31.2/100,,,,adult,2023-01-04 20:29:21.680567
+413,UPMC Magee-Womens Hospital,6232460,6232460,IHQCANC,31.2/100,,,,adult,2023-01-04 20:29:21.680567
+414,Henry Ford Allegiance Health-Jackson,6441500,6441500,IHQCANC,31.1/100,,,,adult,2023-01-04 20:29:21.680567
+415,Our Lady of Lourdes Regional Medical Center,6720343,6720343,IHQCANC,31.1/100,,,,adult,2023-01-04 20:29:21.680567
+416,PIH Health Hospital-Whittier,6933885,6933885,IHQCANC,31.1/100,,,,adult,2023-01-04 20:29:21.680567
+417,Baptist Health Lynn Cancer Institute at Boca Raton Regional Hospital,6390038,6390038,IHQCANC,31.0/100,,,,adult,2023-01-04 20:29:21.680567
+418,Bon Secours Memorial Regional Medical Center,6340896,6340896,IHQCANC,31.0/100,,,,adult,2023-01-04 20:29:21.680567
+419,University of Mississippi Medical Center,6540004,6540004,IHQCANC,31.0/100,,,,adult,2023-01-04 20:29:21.680567
+420,FirstHealth Moore Regional Hospital,6361150,6361150,IHQCANC,30.9/100,,,,adult,2023-01-04 20:29:21.680567
+421,St. David's North Austin Medical Center,6740093,6740093,IHQCANC,30.9/100,,,,adult,2023-01-04 20:29:21.680567
+422,Ascension St. Vincent's Riverside Hospital,6390390,6390390,IHQCANC,30.8/100,,,,adult,2023-01-04 20:29:21.680567
+423,Baptist Health Medical Center-Little Rock,6710335,6710335,IHQCANC,30.8/100,,,,adult,2023-01-04 20:29:21.680567
+424,Baptist Health Lexington,6510407,6510407,IHQCANC,30.7/100,,,,adult,2023-01-04 20:29:21.680567
+425,Gulf Coast Medical Center,6390323,6390323,IHQCANC,30.7/100,,,,adult,2023-01-04 20:29:21.680567
+426,Mary Washington Hospital,6340290,6340290,IHQCANC,30.7/100,,,,adult,2023-01-04 20:29:21.680567
+427,University of Vermont Medical Center,6130001,6130001,IHQCANC,30.7/100,,,,adult,2023-01-04 20:29:21.680567
+428,AnMed Health Medical Center,6370030,6370030,IHQCANC,30.6/100,,,,adult,2023-01-04 20:29:21.680567
+429,DMC Sinai-Grace Hospital,6440630,6440630,IHQCANC,30.6/100,,,,adult,2023-01-04 20:29:21.680567
+430,Kaiser Permanente Los Angeles Medical Center,6930051,6930051,IHQCANC,30.6/100,,,,adult,2023-01-04 20:29:21.680567
+431,Rapides Regional Medical Center,6720020,6720020,IHQCANC,30.6/100,,,,adult,2023-01-04 20:29:21.680567
+432,Wilmot Cancer Institute,6214330,6214330,IHQCANC,30.6/100,,,,adult,2023-01-04 20:29:21.680567
+433,Providence Sacred Heart Medical Center and Children's Hospital,6910980,6910980,IHQCANC,30.5/100,,,,adult,2023-01-04 20:29:21.680567
+434,Amita Health St. Joseph Medical Center Joliet,6431990,6431990,IHQCANC,30.4/100,,,,adult,2023-01-04 20:29:21.680567
+435,Bon Secours St. Mary's Hospital,6340921,6340921,IHQCANC,30.4/100,,,,adult,2023-01-04 20:29:21.680567
+436,Morton Plant Hospital,6390090,6390090,IHQCANC,30.4/100,,,,adult,2023-01-04 20:29:21.680567
+437,Santa Clara Valley Medical Center,6933240,6933240,IHQCANC,30.4/100,,,,adult,2023-01-04 20:29:21.680567
+438,El Camino Health-Mountain View,6931392,6931392,IHQCANC,30.3/100,,,,adult,2023-01-04 20:29:21.680567
+439,Regions Hospital,6611570,6611570,IHQCANC,30.3/100,,,,adult,2023-01-04 20:29:21.680567
+440,RMC Anniston,6530070,6530070,IHQCANC,30.3/100,,,,adult,2023-01-04 20:29:21.680567
+441,Sentara RMH Medical Center,6340340,6340340,IHQCANC,30.3/100,,,,adult,2023-01-04 20:29:21.680567
+442,SSM Health DePaul Hospital-St. Louis,6630985,6630985,IHQCANC,30.3/100,,,,adult,2023-01-04 20:29:21.680567
+443,St. Francis Hospital-Tulsa,6731215,6731215,IHQCANC,30.3/100,,,,adult,2023-01-04 20:29:21.680567
+444,UnityPoint Health-St. Luke's Hospital,6620180,6620180,IHQCANC,30.3/100,,,,adult,2023-01-04 20:29:21.680567
+445,Medical Center of Trinity,6398093,6398093,IHQCANC,30.2/100,,,,adult,2023-01-04 20:29:21.680567
+446,SSM Health St. Mary's Hospital-St. Louis,6630995,6630995,IHQCANC,30.2/100,,,,adult,2023-01-04 20:29:21.680567
+447,St. Anthony's Hospital,6390940,6390940,IHQCANC,30.2/100,,,,adult,2023-01-04 20:29:21.680567
+448,Mather Hospital at Northwell Health,6214050,6214050,IHQCANC,30.1/100,,,,adult,2023-01-04 20:29:21.680567
+449,Bellin Memorial Hospital,6450420,6450420,IHQCANC,30.0/100,,,,adult,2023-01-04 20:29:21.680567
+450,Mercy Hospital Springfield,6631350,6631350,IHQCANC,30.0/100,,,,adult,2023-01-04 20:29:21.680567
+451,Alta Bates Summit Medical Center-Berkeley,6930290,6930290,IHQCANC,29.9/100,,,,adult,2023-01-04 20:29:21.680567
+452,Frederick Regional Hospital,6320540,6320540,IHQCANC,29.9/100,,,,adult,2023-01-04 20:29:21.680567
+453,HCA Florida Osceola Hospital,6390440,6390440,IHQCANC,29.9/100,,,,adult,2023-01-04 20:29:21.680567
+454,Henry Ford West Bloomfield Hospital,6440049,6440049,IHQCANC,29.9/100,,,,adult,2023-01-04 20:29:21.680567
+455,Miriam Hospital,6150130,6150130,IHQCANC,29.9/100,,,,adult,2023-01-04 20:29:21.680567
+456,St. Charles Medical Center,6920070,6920070,IHQCANC,29.9/100,,,,adult,2023-01-04 20:29:21.680567
+457,Baptist Medical Center,6740415,6740415,IHQCANC,29.8/100,,,,adult,2023-01-04 20:29:21.680567
+458,Hospital of Central Connecticut,6160013,6160013,IHQCANC,29.8/100,,,,adult,2023-01-04 20:29:21.680567
+459,Kaiser Permanente Baldwin Park Medical Center,6930098,6930098,IHQCANC,29.8/100,,,,adult,2023-01-04 20:29:21.680567
+460,Rochester General Hospital,6214290,6214290,IHQCANC,29.8/100,,,,adult,2023-01-04 20:29:21.680567
+461,CentraState Medical Center,6220322,6220322,IHQCANC,29.7/100,,,,adult,2023-01-04 20:29:21.680567
+462,Forbes Hospital,6232551,6232551,IHQCANC,29.7/100,,,,adult,2023-01-04 20:29:21.680567
+463,Integris Baptist Medical Center,6730728,6730728,IHQCANC,29.7/100,,,,adult,2023-01-04 20:29:21.680567
+464,Shannon Medical Center,6740129,6740129,IHQCANC,29.7/100,,,,adult,2023-01-04 20:29:21.680567
+465,Sparrow Hospital,6441595,6441595,IHQCANC,29.7/100,,,,adult,2023-01-04 20:29:21.680567
+466,St. Luke's Anderson Campus,6230456,6230456,IHQCANC,29.7/100,,,,adult,2023-01-04 20:29:21.680567
+467,TMC Healthcare-Tucson,6860020,6860020,IHQCANC,29.7/100,,,,adult,2023-01-04 20:29:21.680567
+468,Aultman Hospital,6410280,6410280,IHQCANC,29.6/100,,,,adult,2023-01-04 20:29:21.680567
+469,Health First Holmes Regional Medical Center,6390530,6390530,IHQCANC,29.6/100,,,,adult,2023-01-04 20:29:21.680567
+470,Swedish American Hospital,6432810,6432810,IHQCANC,29.6/100,,,,adult,2023-01-04 20:29:21.680567
+471,UP Health System-Marquette,6441720,6441720,IHQCANC,29.6/100,,,,adult,2023-01-04 20:29:21.680567
+472,Virginia Hospital Center,6340040,6340040,IHQCANC,29.6/100,,,,adult,2023-01-04 20:29:21.680567
+473,CHI St. Luke's Health-The Woodlands Hospital,6740248,6740248,IHQCANC,29.5/100,,,,adult,2023-01-04 20:29:21.680567
+474,Fort Sanders Regional Medical Center,6520510,6520510,IHQCANC,29.5/100,,,,adult,2023-01-04 20:29:21.680567
+475,Kaiser Permanente Panorama City Medical Center,6933784,6933784,IHQCANC,29.5/100,,,,adult,2023-01-04 20:29:21.680567
+476,Chandler Regional Medical Center,6860028,6860028,IHQCANC,29.4/100,,,,adult,2023-01-04 20:29:21.680567
+477,Providence Little Company of Mary Medical Center Torrance,6933681,6933681,IHQCANC,29.4/100,,,,adult,2023-01-04 20:29:21.680567
+478,Holy Cross Hospital-Silver Spring,6320813,6320813,IHQCANC,29.3/100,,,,adult,2023-01-04 20:29:21.680567
+479,Mount Nittany Medical Center,6230130,6230130,IHQCANC,29.3/100,,,,adult,2023-01-04 20:29:21.680567
+480,Baptist Health Louisville,6510365,6510365,IHQCANC,29.2/100,,,,adult,2023-01-04 20:29:21.680567
+481,Baptist Memorial Hospital-Desoto,6540950,6540950,IHQCANC,29.2/100,,,,adult,2023-01-04 20:29:21.680567
+482,Bryan Medical Center,6660006,6660006,IHQCANC,29.2/100,,,,adult,2023-01-04 20:29:21.680567
+483,Emory Decatur Hospital,6380488,6380488,IHQCANC,29.2/100,,,,adult,2023-01-04 20:29:21.680567
+484,Providence Cedars-Sinai Tarzana Medical Center,6933670,6933670,IHQCANC,29.2/100,,,,adult,2023-01-04 20:29:21.680567
+485,St. Agnes Medical Center,6930810,6930810,IHQCANC,29.2/100,,,,adult,2023-01-04 20:29:21.680567
+486,Straub Medical Center,6950405,6950405,IHQCANC,29.2/100,,,,adult,2023-01-04 20:29:21.680567
+487,Duke Raleigh Hospital,6361180,6361180,IHQCANC,29.1/100,,,,adult,2023-01-04 20:29:21.680567
+488,Maimonides Medical Center,6210747,6210747,IHQCANC,29.1/100,,,,adult,2023-01-04 20:29:21.680567
+489,Memorial Hospital of South Bend,6421290,6421290,IHQCANC,29.1/100,,,,adult,2023-01-04 20:29:21.680567
+490,St. Joseph Hospital-Eureka,6930106,6930106,IHQCANC,29.1/100,,,,adult,2023-01-04 20:29:21.680567
+491,William W. Backus Hospital,6160560,6160560,IHQCANC,29.1/100,,,,adult,2023-01-04 20:29:21.680567
+492,Ascension Resurrection,6431020,6431020,IHQCANC,29.0/100,,,,adult,2023-01-04 20:29:21.680567
+493,Banner Boswell Medical Center,6860378,6860378,IHQCANC,29.0/100,,,,adult,2023-01-04 20:29:21.680567
+494,Baton Rouge General Medical Center,6720042,6720042,IHQCANC,29.0/100,,,,adult,2023-01-04 20:29:21.680567
+495,Essentia Health-St. Mary's Medical Center,6610410,6610410,IHQCANC,29.0/100,,,,adult,2023-01-04 20:29:21.680567
+496,Tallahassee Memorial Healthcare,6391030,6391030,IHQCANC,29.0/100,,,,adult,2023-01-04 20:29:21.680567
+497,Henry Ford Wyandotte Hospital,6442520,6442520,IHQCANC,28.9/100,,,,adult,2023-01-04 20:29:21.680567
+498,Pali Momi Medical Center,6950001,6950001,IHQCANC,28.9/100,,,,adult,2023-01-04 20:29:21.680567
+499,UW Medicine-Valley Medical Center,6910520,6910520,IHQCANC,28.9/100,,,,adult,2023-01-04 20:29:21.680567
+500,CarolinaEast Medical Center,6361068,6361068,IHQCANC,28.8/100,,,,adult,2023-01-04 20:29:21.680567
+501,Maine Medical Center,6110430,6110430,IHQCANC,28.8/100,,,,adult,2023-01-04 20:29:21.680567
+502,Mercy Health-Anderson Hospital,6410580,6410580,IHQCANC,28.8/100,,,,adult,2023-01-04 20:29:21.680567
+503,St. Vincent Hospital-Worcester,6142350,6142350,IHQCANC,28.8/100,,,,adult,2023-01-04 20:29:21.680567
+504,Virtua Our Lady of Lourdes Hospital,6220200,6220200,IHQCANC,28.8/100,,,,adult,2023-01-04 20:29:21.680567
+505,St. Dominic-Jackson Memorial Hospital,6540390,6540390,IHQCANC,28.7/100,,,,adult,2023-01-04 20:29:21.680567
+506,University of Missouri Health Care-Columbia,6630150,6630150,IHQCANC,28.7/100,,,,adult,2023-01-04 20:29:21.680567
+507,Atrium Health Wake Forest Baptist Health-High Point Medical Center,6360780,6360780,IHQCANC,28.6/100,,,,adult,2023-01-04 20:29:21.680567
+508,Eastern Maine Medical Center,6110050,6110050,IHQCANC,28.6/100,,,,adult,2023-01-04 20:29:21.680567
+509,Marshfield Medical Center,6450860,6450860,IHQCANC,28.6/100,,,,adult,2023-01-04 20:29:21.680567
+510,MedStar Franklin Square Medical Center,6320120,6320120,IHQCANC,28.6/100,,,,adult,2023-01-04 20:29:21.680567
+511,Northside Hospital Gwinnett,6380325,6380325,IHQCANC,28.6/100,,,,adult,2023-01-04 20:29:21.680567
+512,Northwestern Medicine Delnor Hospital,6431765,6431765,IHQCANC,28.6/100,,,,adult,2023-01-04 20:29:21.680567
+513,WakeMed Raleigh Campus,6360001,6360001,IHQCANC,28.6/100,,,,adult,2023-01-04 20:29:21.680567
+514,Doctors Hospital of Augusta,6380265,6380265,IHQCANC,28.5/100,,,,adult,2023-01-04 20:29:21.680567
+515,Houston Methodist The Woodlands Hospital,6741091,6741091,IHQCANC,28.5/100,,,,adult,2023-01-04 20:29:21.680567
+516,Kaiser Permanente South Sacramento Medical Center,6932673,6932673,IHQCANC,28.5/100,,,,adult,2023-01-04 20:29:21.680567
+517,Methodist Stone Oak Hospital,6740417,6740417,IHQCANC,28.5/100,,,,adult,2023-01-04 20:29:21.680567
+518,UPMC St. Margaret,6232610,6232610,IHQCANC,28.5/100,,,,adult,2023-01-04 20:29:21.680567
+519,Henrico Doctors' Hospitals,6340012,6340012,IHQCANC,28.4/100,,,,adult,2023-01-04 20:29:21.680567
+520,Ascension Genesys Hospital,6440018,6440018,IHQCANC,28.3/100,,,,adult,2023-01-04 20:29:21.680567
+521,Carondelet St. Mary's Hospital,6860480,6860480,IHQCANC,28.3/100,,,,adult,2023-01-04 20:29:21.680567
+522,Mercy Gilbert Medical Center,6860051,6860051,IHQCANC,28.3/100,,,,adult,2023-01-04 20:29:21.680567
+523,Kaiser Permanente San Leandro Medical Center,6930707,6930707,IHQCANC,28.2/100,,,,adult,2023-01-04 20:29:21.680567
+524,Mercy Hospital Oklahoma City,6730800,6730800,IHQCANC,28.2/100,,,,adult,2023-01-04 20:29:21.680567
+525,Mosaic Life Care-St. Joseph,6630009,6630009,IHQCANC,28.2/100,,,,adult,2023-01-04 20:29:21.680567
+526,Cleveland Clinic Martin Health,6391000,6391000,IHQCANC,28.1/100,,,,adult,2023-01-04 20:29:21.680567
+527,Concord Hospital,6120030,6120030,IHQCANC,28.1/100,,,,adult,2023-01-04 20:29:21.680567
+528,Crestwood Medical Center,6530521,6530521,IHQCANC,28.1/100,,,,adult,2023-01-04 20:29:21.680567
+529,HSHS Sacred Heart Hospital,6450330,6450330,IHQCANC,28.1/100,,,,adult,2023-01-04 20:29:21.680567
+530,Mercy Hospital-Coon Rapids,6610085,6610085,IHQCANC,28.1/100,,,,adult,2023-01-04 20:29:21.680567
+531,Munson Medical Center,6440013,6440013,IHQCANC,28.1/100,,,,adult,2023-01-04 20:29:21.680567
+532,Hillcrest Medical Center,6731180,6731180,IHQCANC,28.0/100,,,,adult,2023-01-04 20:29:21.680567
+533,Lakeland Regional Health Medical Center,6390470,6390470,IHQCANC,28.0/100,,,,adult,2023-01-04 20:29:21.680567
+534,UConn John Dempsey Hospital,6160215,6160215,IHQCANC,28.0/100,,,,adult,2023-01-04 20:29:21.680567
+535,Kaiser Permanente Roseville Medical Center,6930421,6930421,IHQCANC,27.9/100,,,,adult,2023-01-04 20:29:21.680567
+536,Kent County Memorial Hospital,6150215,6150215,IHQCANC,27.9/100,,,,adult,2023-01-04 20:29:21.680567
+537,NCH Baker Hospital,6390669,6390669,IHQCANC,27.9/100,,,,adult,2023-01-04 20:29:21.680567
+538,ProMedica Toledo Hospital,6412180,6412180,IHQCANC,27.9/100,,,,adult,2023-01-04 20:29:21.680567
+539,St. Francis Medical Center-Monroe,6720460,6720460,IHQCANC,27.9/100,,,,adult,2023-01-04 20:29:21.680567
+540,CHI Memorial Hospital,6520019,6520019,IHQCANC,27.8/100,,,,adult,2023-01-04 20:29:21.680567
+541,John D. Archbold Memorial Hospital,6381140,6381140,IHQCANC,27.8/100,,,,adult,2023-01-04 20:29:21.680567
+542,WellStar Cobb Hospital,6380285,6380285,IHQCANC,27.8/100,,,,adult,2023-01-04 20:29:21.680567
+543,Beaumont Hospital-Farmington Hills,6441011,6441011,IHQCANC,27.7/100,,,,adult,2023-01-04 20:29:21.680567
+544,Bon Secours St. Francis Medical Center,6340021,6340021,IHQCANC,27.7/100,,,,adult,2023-01-04 20:29:21.680567
+545,Cape Fear Valley Medical Center,6360023,6360023,IHQCANC,27.7/100,,,,adult,2023-01-04 20:29:21.680567
+546,Intermountain St. George Regional Hospital,6870245,6870245,IHQCANC,27.7/100,,,,adult,2023-01-04 20:29:21.680567
+547,PeaceHealth St. Joseph Medical Center,6910001,6910001,IHQCANC,27.7/100,,,,adult,2023-01-04 20:29:21.680567
+548,University of Texas Medical Branch,6741615,6741615,IHQCANC,27.7/100,,,,adult,2023-01-04 20:29:21.680567
+549,Adventist Health Bakersfield,6930210,6930210,IHQCANC,27.6/100,,,,adult,2023-01-04 20:29:21.680567
+550,Einstein Medical Center Philadelphia,6231634,6231634,IHQCANC,27.6/100,,,,adult,2023-01-04 20:29:21.680567
+551,North Colorado Medical Center,6840650,6840650,IHQCANC,27.6/100,,,,adult,2023-01-04 20:29:21.680567
+552,St. Rita's Medical Center,6411560,6411560,IHQCANC,27.6/100,,,,adult,2023-01-04 20:29:21.680567
+553,Community Hospital North,6420023,6420023,IHQCANC,27.5/100,,,,adult,2023-01-04 20:29:21.680567
+554,Community Medical Center-Toms River,6221395,6221395,IHQCANC,27.5/100,,,,adult,2023-01-04 20:29:21.680567
+555,Hartford Hospital,6160003,6160003,IHQCANC,27.5/100,,,,adult,2023-01-04 20:29:21.680567
+556,Kettering Health Main Campus,6411466,6411466,IHQCANC,27.5/100,,,,adult,2023-01-04 20:29:21.680567
+557,PeaceHealth Southwest Medical Center,6911130,6911130,IHQCANC,27.5/100,,,,adult,2023-01-04 20:29:21.680567
+558,Stamford Hospital,6160009,6160009,IHQCANC,27.5/100,,,,adult,2023-01-04 20:29:21.680567
+559,Holston Valley Medical Center,6520470,6520470,IHQCANC,27.4/100,,,,adult,2023-01-04 20:29:21.680567
+560,Jupiter Medical Center,6393411,6393411,IHQCANC,27.4/100,,,,adult,2023-01-04 20:29:21.680567
+561,Middlesex Hospital,6160340,6160340,IHQCANC,27.4/100,,,,adult,2023-01-04 20:29:21.680567
+562,Northeast Georgia Medical Center,6380019,6380019,IHQCANC,27.4/100,,,,adult,2023-01-04 20:29:21.680567
+563,St. Francis Healthcare System-Cape Girardeau,6630070,6630070,IHQCANC,27.4/100,,,,adult,2023-01-04 20:29:21.680567
+564,Touro Infirmary,6720670,6720670,IHQCANC,27.4/100,,,,adult,2023-01-04 20:29:21.680567
+565,Benefis Health System-Great Falls,6810003,6810003,IHQCANC,27.3/100,,,,adult,2023-01-04 20:29:21.680567
+566,Lee Memorial Hospital,6390240,6390240,IHQCANC,27.3/100,,,,adult,2023-01-04 20:29:21.680567
+567,OSF Healthcare St. Francis Medical Center,6432620,6432620,IHQCANC,27.3/100,,,,adult,2023-01-04 20:29:21.680567
+568,Central Maine Medical Center,6110370,6110370,IHQCANC,27.2/100,,,,adult,2023-01-04 20:29:21.680567
+569,Grand Strand Regional Medical Center,6370477,6370477,IHQCANC,27.2/100,,,,adult,2023-01-04 20:29:21.680567
+570,HCA Houston Healthcare Kingwood,6740046,6740046,IHQCANC,27.2/100,,,,adult,2023-01-04 20:29:21.680567
+571,University of Louisville Hospital,6510550,6510550,IHQCANC,27.2/100,,,,adult,2023-01-04 20:29:21.680567
+572,Atrium Health-Pineville,6360018,6360018,IHQCANC,27.1/100,,,,adult,2023-01-04 20:29:21.680567
+573,University Hospitals Lake Medical Centers,6411870,6411870,IHQCANC,27.1/100,,,,adult,2023-01-04 20:29:21.680567
+574,Bon Secours St. Francis Health System-Greenville,6370330,6370330,IHQCANC,27.0/100,,,,adult,2023-01-04 20:29:21.680567
+575,Lexington Medical Center,6370671,6370671,IHQCANC,27.0/100,,,,adult,2023-01-04 20:29:21.680567
+576,McLaren Bay Region Hospital,6440190,6440190,IHQCANC,27.0/100,,,,adult,2023-01-04 20:29:21.680567
+577,Memorial Health University Medical Center,6381027,6381027,IHQCANC,27.0/100,,,,adult,2023-01-04 20:29:21.680567
+578,M Health Fairview St. John's Hospital,6610820,6610820,IHQCANC,27.0/100,,,,adult,2023-01-04 20:29:21.680567
+579,Washington Hospital-Pennsylvania,6233320,6233320,IHQCANC,27.0/100,,,,adult,2023-01-04 20:29:21.680567
+580,Bristol Regional Medical Center,6520040,6520040,IHQCANC,26.9/100,,,,adult,2023-01-04 20:29:21.680567
+581,Christus Spohn Hospital-Corpus Christi,6740089,6740089,IHQCANC,26.9/100,,,,adult,2023-01-04 20:29:21.680567
+582,Deaconess Hospital,6420320,6420320,IHQCANC,26.9/100,,,,adult,2023-01-04 20:29:21.680567
+583,Essentia Health-Fargo,6640003,6640003,IHQCANC,26.9/100,,,,adult,2023-01-04 20:29:21.680567
+584,Providence Regional Medical Center Everett,6910004,6910004,IHQCANC,26.9/100,,,,adult,2023-01-04 20:29:21.680567
+585,UPMC Altoona,6230086,6230086,IHQCANC,26.9/100,,,,adult,2023-01-04 20:29:21.680567
+586,UPMC Mercy,6232510,6232510,IHQCANC,26.9/100,,,,adult,2023-01-04 20:29:21.680567
+587,Inspira Medical Center-Vineland,6220125,6220125,IHQCANC,26.8/100,,,,adult,2023-01-04 20:29:21.680567
+588,Mercy Health-St. Elizabeth Youngstown Hospital,6412440,6412440,IHQCANC,26.8/100,,,,adult,2023-01-04 20:29:21.680567
+589,Mission Hospital-Asheville,6360013,6360013,IHQCANC,26.8/100,,,,adult,2023-01-04 20:29:21.680567
+590,Parkview Medical Center,6840850,6840850,IHQCANC,26.8/100,,,,adult,2023-01-04 20:29:21.680567
+591,WakeMed Cary Hospital,636118A,636118A,IHQCANC,26.8/100,,,,adult,2023-01-04 20:29:21.680567
+592,Charleston Area Medical Center,6350120,6350120,IHQCANC,26.7/100,,,,adult,2023-01-04 20:29:21.680567
+593,Norman Regional Hospital-Norman,6730074,6730074,IHQCANC,26.7/100,,,,adult,2023-01-04 20:29:21.680567
+594,California Pacific Medical Center,6930032,6930032,IHQCANC,26.6/100,,,,adult,2023-01-04 20:29:21.680567
+595,Community Memorial Hospital-Ventura,6930131,6930131,IHQCANC,26.6/100,,,,adult,2023-01-04 20:29:21.680567
+596,Decatur Memorial Hospital,6431370,6431370,IHQCANC,26.6/100,,,,adult,2023-01-04 20:29:21.680567
+597,Aventura Hospital and Medical Center,6390282,6390282,IHQCANC,26.5/100,,,,adult,2023-01-04 20:29:21.680567
+598,Baylor Scott and White Medical Center-Grapevine,6741739,6741739,IHQCANC,26.5/100,,,,adult,2023-01-04 20:29:21.680567
+599,Community Hospital-Munster,6421050,6421050,IHQCANC,26.5/100,,,,adult,2023-01-04 20:29:21.680567
+600,HonorHealth Scottsdale Thompson Peak Medical Center,6860054,6860054,IHQCANC,26.5/100,,,,adult,2023-01-04 20:29:21.680567
+601,Los Robles Hospital and Medical Center,6933672,6933672,IHQCANC,26.5/100,,,,adult,2023-01-04 20:29:21.680567
+602,Northwest Medical Center-Tucson,6864010,6864010,IHQCANC,26.5/100,,,,adult,2023-01-04 20:29:21.680567
+603,Sisters of Charity Hospital of Buffalo,6211000,6211000,IHQCANC,26.5/100,,,,adult,2023-01-04 20:29:21.680567
+604,Virtua Mount Holly Hospital,6220730,6220730,IHQCANC,26.5/100,,,,adult,2023-01-04 20:29:21.680567
+605,Atrium Health Navicent Medical Center,6380730,6380730,IHQCANC,26.4/100,,,,adult,2023-01-04 20:29:21.680567
+606,Maury Regional Medical Center,6520209,6520209,IHQCANC,26.4/100,,,,adult,2023-01-04 20:29:21.680567
+607,Sutter Medical Center,6930073,6930073,IHQCANC,26.4/100,,,,adult,2023-01-04 20:29:21.680567
+608,Asante Rogue Regional Medical Center,6920280,6920280,IHQCANC,26.3/100,,,,adult,2023-01-04 20:29:21.680567
+609,Carson Tahoe Health-Carson City,6880025,6880025,IHQCANC,26.3/100,,,,adult,2023-01-04 20:29:21.680567
+610,Santa Rosa Memorial Hospital,6930109,6930109,IHQCANC,26.3/100,,,,adult,2023-01-04 20:29:21.680567
+611,Silver Cross Hospital,6432000,6432000,IHQCANC,26.2/100,,,,adult,2023-01-04 20:29:21.680567
+612,St. Anthony Hospital-Lakewood,6840385,6840385,IHQCANC,26.2/100,,,,adult,2023-01-04 20:29:21.680567
+613,Texoma Medical Center,6741135,6741135,IHQCANC,26.2/100,,,,adult,2023-01-04 20:29:21.680567
+614,Candler Hospital,6381080,6381080,IHQCANC,26.1/100,,,,adult,2023-01-04 20:29:21.680567
+615,Christus St. Vincent Regional Medical Center,6850390,6850390,IHQCANC,26.1/100,,,,adult,2023-01-04 20:29:21.680567
+616,Holy Cross Health-Fort Lauderdale,6390230,6390230,IHQCANC,26.1/100,,,,adult,2023-01-04 20:29:21.680567
+617,Ascension SE Wisconsin Hospital-St. Joseph Campus,6450022,6450022,IHQCANC,26.0/100,,,,adult,2023-01-04 20:29:21.680567
+618,Broward Health Coral Springs,6390150,6390150,IHQCANC,26.0/100,,,,adult,2023-01-04 20:29:21.680567
+619,Clara Maass Medical Center,6220758,6220758,IHQCANC,26.0/100,,,,adult,2023-01-04 20:29:21.680567
+620,Jackson Hospital and Clinic,6530695,6530695,IHQCANC,26.0/100,,,,adult,2023-01-04 20:29:21.680567
+621,"Jefferson Health-Stratford, Cherry Hill and Washington Township",6221345,6221345,IHQCANC,26.0/100,,,,adult,2023-01-04 20:29:21.680567
+622,Medical City Arlington,6740115,6740115,IHQCANC,26.0/100,,,,adult,2023-01-04 20:29:21.680567
+623,North Florida Regional Medical Center,6390225,6390225,IHQCANC,26.0/100,,,,adult,2023-01-04 20:29:21.680567
+624,Trinity Health Oakland Hospital,6442140,6442140,IHQCANC,26.0/100,,,,adult,2023-01-04 20:29:21.680567
+625,Atrium Health-Cabarrus,6360360,6360360,IHQCANC,25.9/100,,,,adult,2023-01-04 20:29:21.680567
+626,Boulder Community Health-Foothills Hospital,6840040,6840040,IHQCANC,25.9/100,,,,adult,2023-01-04 20:29:21.680567
+627,Excela Health Westmoreland Hospital,6230840,6230840,IHQCANC,25.9/100,,,,adult,2023-01-04 20:29:21.680567
+628,Kaiser Permanente South Bay Medical Center,6930925,6930925,IHQCANC,25.9/100,,,,adult,2023-01-04 20:29:21.680567
+629,Our Lady of Lourdes Memorial Hospital,6210370,6210370,IHQCANC,25.9/100,,,,adult,2023-01-04 20:29:21.680567
+630,Ascension All Saints Hospital,6451580,6451580,IHQCANC,25.8/100,,,,adult,2023-01-04 20:29:21.680567
+631,Doctors Medical Center of Modesto,6930016,6930016,IHQCANC,25.8/100,,,,adult,2023-01-04 20:29:21.680567
+632,Hospital HIMA San Pablo Oncológico,6040004,6040004,IHQCANC,25.8/100,,,,adult,2023-01-04 20:29:21.680567
+633,Indiana University Health Bloomington Hospital,6420130,6420130,IHQCANC,25.8/100,,,,adult,2023-01-04 20:29:21.680567
+634,St. Francis Hospital and Medical Center,6160004,6160004,IHQCANC,25.8/100,,,,adult,2023-01-04 20:29:21.680567
+635,Baptist Hospital,6390792,6390792,IHQCANC,25.7/100,,,,adult,2023-01-04 20:29:21.680567
+636,Brandon Regional Hospital,6390070,6390070,IHQCANC,25.7/100,,,,adult,2023-01-04 20:29:21.680567
+637,Flowers Hospital,6530350,6530350,IHQCANC,25.7/100,,,,adult,2023-01-04 20:29:21.680567
+638,USA Health University Hospital,6530600,6530600,IHQCANC,25.7/100,,,,adult,2023-01-04 20:29:21.680567
+639,Kaleida Health-Buffalo General Medical Center,6211025,6211025,IHQCANC,25.6/100,,,,adult,2023-01-04 20:29:21.680567
+640,Memorial Medical Center-Las Cruces,6850285,6850285,IHQCANC,25.6/100,,,,adult,2023-01-04 20:29:21.680567
+641,Northwestern Medicine Central DuPage Hospital,6430019,6430019,IHQCANC,25.6/100,,,,adult,2023-01-04 20:29:21.680567
+642,Ascension St. Thomas Hospital,6521040,6521040,IHQCANC,25.5/100,,,,adult,2023-01-04 20:29:21.680567
+643,CoxHealth Springfield,6631320,6631320,IHQCANC,25.5/100,,,,adult,2023-01-04 20:29:21.680567
+644,Henry Ford Macomb Hospitals,6441830,6441830,IHQCANC,25.5/100,,,,adult,2023-01-04 20:29:21.680567
+645,HonorHealth Deer Valley Medical Center,6860325,6860325,IHQCANC,25.5/100,,,,adult,2023-01-04 20:29:21.680567
+646,Main Line Health Riddle Hospital,6231375,6231375,IHQCANC,25.5/100,,,,adult,2023-01-04 20:29:21.680567
+647,Robert Wood Johnson University Hospital Somerset,6221340,6221340,IHQCANC,25.5/100,,,,adult,2023-01-04 20:29:21.680567
+648,Lovelace Medical Center,6850060,6850060,IHQCANC,25.4/100,,,,adult,2023-01-04 20:29:21.680567
+649,Providence St. Patrick Hospital,6810430,6810430,IHQCANC,25.4/100,,,,adult,2023-01-04 20:29:21.680567
+650,SUNY Downstate Medical Center University Hospital,6210469,6210469,IHQCANC,25.4/100,,,,adult,2023-01-04 20:29:21.680567
+651,Ascension St. Vincent Evansville,6420027,6420027,IHQCANC,25.3/100,,,,adult,2023-01-04 20:29:21.680567
+652,Corpus Christi Medical Center,6740732,6740732,IHQCANC,25.3/100,,,,adult,2023-01-04 20:29:21.680567
+653,Intermountain Utah Valley Hospital,6870220,6870220,IHQCANC,25.3/100,,,,adult,2023-01-04 20:29:21.680567
+654,Gottlieb Memorial Hospital,6432435,6432435,IHQCANC,25.2/100,,,,adult,2023-01-04 20:29:21.680567
+655,Olathe Medical Center,6670758,6670758,IHQCANC,25.2/100,,,,adult,2023-01-04 20:29:21.680567
+656,SCL Health Good Samaritan Medical Center,6840021,6840021,IHQCANC,25.2/100,,,,adult,2023-01-04 20:29:21.680567
+657,UnityPoint Health-Methodist Hospital,6432570,6432570,IHQCANC,25.2/100,,,,adult,2023-01-04 20:29:21.680567
+658,Confluence Health-Central Washington Hospital,6911195,6911195,IHQCANC,25.1/100,,,,adult,2023-01-04 20:29:21.680567
+659,Luminis Health Doctors Community Medical Center,6320645,6320645,IHQCANC,25.1/100,,,,adult,2023-01-04 20:29:21.680567
+660,Mercy Health-St. Vincent Medical Center,6412170,6412170,IHQCANC,25.1/100,,,,adult,2023-01-04 20:29:21.680567
+661,St. David's Round Rock Medical Center,6742345,6742345,IHQCANC,25.1/100,,,,adult,2023-01-04 20:29:21.680567
+662,Piedmont Athens Regional Medical Center,6380040,6380040,IHQCANC,25.0/100,,,,adult,2023-01-04 20:29:21.680567
+663,UPMC Williamsport,6233500,6233500,IHQCANC,25.0/100,,,,adult,2023-01-04 20:29:21.680567
+664,AdventHealth Fish Memorial,6390046,6390046,IHQCANC,24.9/100,,,,adult,2023-01-04 20:29:21.680567
+665,North Memorial Health Hospital,6611455,6611455,IHQCANC,24.9/100,,,,adult,2023-01-04 20:29:21.680567
+666,Spartanburg Medical Center,6370610,6370610,IHQCANC,24.9/100,,,,adult,2023-01-04 20:29:21.680567
+667,Southwest Healthcare System-Murrieta,6930690,6930690,IHQCANC,24.8/100,,,,adult,2023-01-04 20:29:21.680567
+668,DCH Regional Medical Center,6530960,6530960,IHQCANC,24.7/100,,,,adult,2023-01-04 20:29:21.680567
+669,Medical Center at Bowling Green,6510007,6510007,IHQCANC,24.7/100,,,,adult,2023-01-04 20:29:21.680567
+670,Mon Health Medical Center,6350555,6350555,IHQCANC,24.7/100,,,,adult,2023-01-04 20:29:21.680567
+671,SCL Health Lutheran Medical Center,6840012,6840012,IHQCANC,24.7/100,,,,adult,2023-01-04 20:29:21.680567
+672,Bon Secours St. Francis Hospital,6370100,6370100,IHQCANC,24.6/100,,,,adult,2023-01-04 20:29:21.680567
+673,CHI St. Vincent Infirmary,6710400,6710400,IHQCANC,24.6/100,,,,adult,2023-01-04 20:29:21.680567
+674,Community Regional Medical Center,6930790,6930790,IHQCANC,24.6/100,,,,adult,2023-01-04 20:29:21.680567
+675,Mercy Hospital South,6631160,6631160,IHQCANC,24.6/100,,,,adult,2023-01-04 20:29:21.680567
+676,Northside Hospital Forsyth,6380463,6380463,IHQCANC,24.6/100,,,,adult,2023-01-04 20:29:21.680567
+677,Aspirus Wausau Hospital,6452085,6452085,IHQCANC,24.5/100,,,,adult,2023-01-04 20:29:21.680567
+678,Kendall Regional Medical Center,6390515,6390515,IHQCANC,24.5/100,,,,adult,2023-01-04 20:29:21.680567
+679,CHI St. Alexius Health Bismarck,6640040,6640040,IHQCANC,24.4/100,,,,adult,2023-01-04 20:29:21.680567
+680,Einstein Medical Center Montgomery,6230515,6230515,IHQCANC,24.4/100,,,,adult,2023-01-04 20:29:21.680567
+681,Penrose-St. Francis Health Services-Colorado Springs,6840002,6840002,IHQCANC,24.4/100,,,,adult,2023-01-04 20:29:21.680567
+682,UT Health Tyler,6740092,6740092,IHQCANC,24.4/100,,,,adult,2023-01-04 20:29:21.680567
+683,Christus Health Shreveport-Bossier,6720088,6720088,IHQCANC,24.3/100,,,,adult,2023-01-04 20:29:21.680567
+684,East Alabama Medical Center,6530760,6530760,IHQCANC,24.3/100,,,,adult,2023-01-04 20:29:21.680567
+685,Faxton St. Luke's Healthcare-Utica,6210013,6210013,IHQCANC,24.3/100,,,,adult,2023-01-04 20:29:21.680567
+686,Springfield Memorial Hospital,6432950,6432950,IHQCANC,24.3/100,,,,adult,2023-01-04 20:29:21.680567
+687,Camden Clark Medical Center,6350600,6350600,IHQCANC,24.2/100,,,,adult,2023-01-04 20:29:21.680567
+688,Highland Hospital,6214240,6214240,IHQCANC,24.2/100,,,,adult,2023-01-04 20:29:21.680567
+689,Johnson City Medical Center,6520466,6520466,IHQCANC,24.2/100,,,,adult,2023-01-04 20:29:21.680567
+690,Lutheran Hospital of Indiana,6420420,6420420,IHQCANC,24.2/100,,,,adult,2023-01-04 20:29:21.680567
+691,Presbyterian Hospital,6850055,6850055,IHQCANC,24.2/100,,,,adult,2023-01-04 20:29:21.680567
+692,Sentara CarePlex Hospital,6340330,6340330,IHQCANC,24.2/100,,,,adult,2023-01-04 20:29:21.680567
+693,Baptist Health Cancer Care,6390050,6390050,IHQCANC,24.1/100,,,,adult,2023-01-04 20:29:21.680567
+694,Conemaugh Memorial Medical Center,6230052,6230052,IHQCANC,24.1/100,,,,adult,2023-01-04 20:29:21.680567
+695,Delray Medical Center,6390081,6390081,IHQCANC,24.1/100,,,,adult,2023-01-04 20:29:21.680567
+696,EvergreenHealth Kirkland,6910335,6910335,IHQCANC,24.1/100,,,,adult,2023-01-04 20:29:21.680567
+697,Valley Hospital Medical Center,6880073,6880073,IHQCANC,24.1/100,,,,adult,2023-01-04 20:29:21.680567
+698,Luminis Health Anne Arundel Medical Center,6320020,6320020,IHQCANC,24.0/100,,,,adult,2023-01-04 20:29:21.680567
+699,San Antonio Regional Hospital,6933750,6933750,IHQCANC,23.9/100,,,,adult,2023-01-04 20:29:21.680567
+700,United Hospital,6611585,6611585,IHQCANC,23.9/100,,,,adult,2023-01-04 20:29:21.680567
+701,Aurora BayCare Medical Center,6450021,6450021,IHQCANC,23.8/100,,,,adult,2023-01-04 20:29:21.680567
+702,Gulf Coast Regional Medical Center,6390776,6390776,IHQCANC,23.8/100,,,,adult,2023-01-04 20:29:21.680567
+703,HSHS St. John's Hospital,6432980,6432980,IHQCANC,23.8/100,,,,adult,2023-01-04 20:29:21.680567
+704,Mercy Hospital-Buffalo,6211100,6211100,IHQCANC,23.8/100,,,,adult,2023-01-04 20:29:21.680567
+705,St. Rose Dominican Hospitals-Siena Campus,6880008,6880008,IHQCANC,23.8/100,,,,adult,2023-01-04 20:29:21.680567
+706,USMD Hospital at Arlington,6740265,6740265,IHQCANC,23.8/100,,,,adult,2023-01-04 20:29:21.680567
+707,BSA Hospital,6740137,6740137,IHQCANC,23.7/100,,,,adult,2023-01-04 20:29:21.680567
+708,Covenant Healthcare-Saginaw,6440023,6440023,IHQCANC,23.7/100,,,,adult,2023-01-04 20:29:21.680567
+709,MercyOne Siouxland Medical Center,6621275,6621275,IHQCANC,23.7/100,,,,adult,2023-01-04 20:29:21.680567
+710,Southwest General Health Center,6410200,6410200,IHQCANC,23.7/100,,,,adult,2023-01-04 20:29:21.680567
+711,Winter Haven Hospital,6390079,6390079,IHQCANC,23.6/100,,,,adult,2023-01-04 20:29:21.680567
+712,Cleveland Clinic Mercy Hospital,6410290,6410290,IHQCANC,23.5/100,,,,adult,2023-01-04 20:29:21.680567
+713,Salina Regional Health Center,6670016,6670016,IHQCANC,23.5/100,,,,adult,2023-01-04 20:29:21.680567
+714,ThedaCare Regional Medical Center-Appleton,6450045,6450045,IHQCANC,23.5/100,,,,adult,2023-01-04 20:29:21.680567
+715,Ascension St. Mary's Hospital,6442290,6442290,IHQCANC,23.4/100,,,,adult,2023-01-04 20:29:21.680567
+716,Trident Medical Center,6370232,6370232,IHQCANC,23.4/100,,,,adult,2023-01-04 20:29:21.680567
+717,Mishawaka Medical Center,6421300,6421300,IHQCANC,23.3/100,,,,adult,2023-01-04 20:29:21.680567
+718,MultiCare Good Samaritan Hospital,6910500,6910500,IHQCANC,23.3/100,,,,adult,2023-01-04 20:29:21.680567
+719,Providence Holy Family Hospital,6910894,6910894,IHQCANC,23.3/100,,,,adult,2023-01-04 20:29:21.680567
+720,St. Joseph's Health Hospital,6214870,6214870,IHQCANC,23.3/100,,,,adult,2023-01-04 20:29:21.680567
+721,Capital Health Medical Center-Hopewell,6221430,6221430,IHQCANC,23.2/100,,,,adult,2023-01-04 20:29:21.680567
+722,Baylor Scott and White Medical Center-Round Rock-Lakeway,6740381,6740381,IHQCANC,23.1/100,,,,adult,2023-01-04 20:29:21.680567
+723,Lowell General Hospital,6140428,6140428,IHQCANC,23.1/100,,,,adult,2023-01-04 20:29:21.680567
+724,MercyOne North Iowa Medical Center,6620002,6620002,IHQCANC,23.1/100,,,,adult,2023-01-04 20:29:21.680567
+725,Meritus Health-Hagerstown,6320580,6320580,IHQCANC,23.0/100,,,,adult,2023-01-04 20:29:21.680567
+726,Novant Health New Hanover Regional Medical Center,6360019,6360019,IHQCANC,23.0/100,,,,adult,2023-01-04 20:29:21.680567
+727,Palomar Medical Center Escondido,6930660,6930660,IHQCANC,23.0/100,,,,adult,2023-01-04 20:29:21.680567
+728,Riverside Community Hospital,6932585,6932585,IHQCANC,23.0/100,,,,adult,2023-01-04 20:29:21.680567
+729,SSM Health St. Mary's Hospital-Madison,6450810,6450810,IHQCANC,23.0/100,,,,adult,2023-01-04 20:29:21.680567
+730,University Medical Center-Las Vegas,6880071,6880071,IHQCANC,23.0/100,,,,adult,2023-01-04 20:29:21.680567
+731,Ascension St. Vincent's Birmingham,6530260,6530260,IHQCANC,22.9/100,,,,adult,2023-01-04 20:29:21.680567
+732,Kaiser Permanente Woodland Hills Medical Center,6933915,6933915,IHQCANC,22.9/100,,,,adult,2023-01-04 20:29:21.680567
+733,Logan Health-Kalispell,6810007,6810007,IHQCANC,22.9/100,,,,adult,2023-01-04 20:29:21.680567
+734,"Southcoast Hospitals-Fall River, New Bedford and Wareham",6140016,6140016,IHQCANC,22.9/100,,,,adult,2023-01-04 20:29:21.680567
+735,St. Vincent Hospital-Erie,6230780,6230780,IHQCANC,22.8/100,,,,adult,2023-01-04 20:29:21.680567
+736,St. Vincent's Medical Center,6160010,6160010,IHQCANC,22.7/100,,,,adult,2023-01-04 20:29:21.680567
+737,Wesley Healthcare Center,6671170,6671170,IHQCANC,22.7/100,,,,adult,2023-01-04 20:29:21.680567
+738,Hospitals of Providence Memorial Campus-Tenet Healthcare,6741290,6741290,IHQCANC,22.6/100,,,,adult,2023-01-04 20:29:21.680567
+739,Mercy Hospital-Rockville Centre,6214360,6214360,IHQCANC,22.6/100,,,,adult,2023-01-04 20:29:21.680567
+740,Park Nicollet Methodist Hospital,6610840,6610840,IHQCANC,22.6/100,,,,adult,2023-01-04 20:29:21.680567
+741,Regional Medical Center Bayonet Point,6390385,6390385,IHQCANC,22.6/100,,,,adult,2023-01-04 20:29:21.680567
+742,Reid Health-Richmond,6421190,6421190,IHQCANC,22.6/100,,,,adult,2023-01-04 20:29:21.680567
+743,SCL Health St. Mary's Medical Center,6840625,6840625,IHQCANC,22.6/100,,,,adult,2023-01-04 20:29:21.680567
+744,St. Francis Hospital-Memphis,6520812,6520812,IHQCANC,22.6/100,,,,adult,2023-01-04 20:29:21.680567
+745,St. Tammany Health System-Main Campus,6720185,6720185,IHQCANC,22.6/100,,,,adult,2023-01-04 20:29:21.680567
+746,Virginia Mason Franciscan Health-St. Michael Medical Center,6910115,6910115,IHQCANC,22.5/100,,,,adult,2023-01-04 20:29:21.680567
+747,St. Mary Medical Center-Langhorne,6231130,6231130,IHQCANC,22.4/100,,,,adult,2023-01-04 20:29:21.680567
+748,UofL Health-Jewish Hospital,6510510,6510510,IHQCANC,22.4/100,,,,adult,2023-01-04 20:29:21.680567
+749,Ascension Sacred Heart Pensacola Hospital,6390830,6390830,IHQCANC,22.3/100,,,,adult,2023-01-04 20:29:21.680567
+750,Kaiser Permanente Walnut Creek Medical Center,6930068,6930068,IHQCANC,22.3/100,,,,adult,2023-01-04 20:29:21.680567
+751,Kaweah Health Medical Center,6933850,6933850,IHQCANC,22.3/100,,,,adult,2023-01-04 20:29:21.680567
+752,Baptist Memorial Hospital-North Mississippi,6540693,6540693,IHQCANC,22.2/100,,,,adult,2023-01-04 20:29:21.680567
+753,Kadlec Regional Medical Center,6910530,6910530,IHQCANC,22.2/100,,,,adult,2023-01-04 20:29:21.680567
+754,Mary Greeley Medical Center,6620055,6620055,IHQCANC,22.2/100,,,,adult,2023-01-04 20:29:21.680567
+755,Mercy Medical Center-Baltimore,6320220,6320220,IHQCANC,22.2/100,,,,adult,2023-01-04 20:29:21.680567
+756,Blake Medical Center,6390055,6390055,IHQCANC,22.1/100,,,,adult,2023-01-04 20:29:21.680567
+757,Kaiser Permanente Sacramento Medical Center,6932662,6932662,IHQCANC,22.1/100,,,,adult,2023-01-04 20:29:21.680567
+758,Trinity Health Livonia Hospital,6441669,6441669,IHQCANC,22.1/100,,,,adult,2023-01-04 20:29:21.680567
+759,Blessing Hospital,6430017,6430017,IHQCANC,22.0/100,,,,adult,2023-01-04 20:29:21.680567
+760,Jefferson Health-Jefferson Torresdale Hospital,6230054,6230054,IHQCANC,22.0/100,,,,adult,2023-01-04 20:29:21.680567
+761,Memorial Hospital at Gulfport,6540300,6540300,IHQCANC,22.0/100,,,,adult,2023-01-04 20:29:21.680567
+762,Hendrick Medical Center,6740020,6740020,IHQCANC,21.9/100,,,,adult,2023-01-04 20:29:21.680567
+763,Erlanger Medical Center,6520065,6520065,IHQCANC,21.8/100,,,,adult,2023-01-04 20:29:21.680567
+764,Gundersen Lutheran Medical Center,6450680,6450680,IHQCANC,21.8/100,,,,adult,2023-01-04 20:29:21.680567
+765,Guthrie Robert Packer Hospital,6232970,6232970,IHQCANC,21.8/100,,,,adult,2023-01-04 20:29:21.680567
+766,St. Mary Medical Center-Hobart,6420565,6420565,IHQCANC,21.8/100,,,,adult,2023-01-04 20:29:21.680567
+767,Ascension Via Christi Hospital Wichita,6670017,6670017,IHQCANC,21.7/100,,,,adult,2023-01-04 20:29:21.680567
+768,Methodist Medical Center of Oak Ridge,6521080,6521080,IHQCANC,21.7/100,,,,adult,2023-01-04 20:29:21.680567
+769,MountainView Hospital,6880007,6880007,IHQCANC,21.7/100,,,,adult,2023-01-04 20:29:21.680567
+770,AdventHealth Ocala,6390670,6390670,IHQCANC,21.6/100,,,,adult,2023-01-04 20:29:21.680567
+771,Ascension Providence Hospital,6743660,6743660,IHQCANC,21.6/100,,,,adult,2023-01-04 20:29:21.680567
+772,Liberty Hospital,6630605,6630605,IHQCANC,21.6/100,,,,adult,2023-01-04 20:29:21.680567
+773,MUSC Health Florence Medical Center,6370011,6370011,IHQCANC,21.5/100,,,,adult,2023-01-04 20:29:21.680567
+774,Ascension St. John Medical Center,6731220,6731220,IHQCANC,21.4/100,,,,adult,2023-01-04 20:29:21.680567
+775,Flagstaff Medical Center,6860021,6860021,IHQCANC,21.4/100,,,,adult,2023-01-04 20:29:21.680567
+776,HCA Florida Oak Hill Hospital,6390997,6390997,IHQCANC,21.4/100,,,,adult,2023-01-04 20:29:21.680567
+777,Kaiser Permanente Santa Clara Medical Center,6933402,6933402,IHQCANC,21.4/100,,,,adult,2023-01-04 20:29:21.680567
+778,Kootenai Health-Coeur D'Alene,6820111,6820111,IHQCANC,21.3/100,,,,adult,2023-01-04 20:29:21.680567
+779,Marietta Memorial Hospital,6411630,6411630,IHQCANC,21.3/100,,,,adult,2023-01-04 20:29:21.680567
+780,McLaren Flint Hospital,6441038,6441038,IHQCANC,21.3/100,,,,adult,2023-01-04 20:29:21.680567
+781,St. Luke's Hospital-Duluth,6610400,6610400,IHQCANC,21.3/100,,,,adult,2023-01-04 20:29:21.680567
+782,CHI St. Vincent Hot Springs Hospital,6710300,6710300,IHQCANC,21.2/100,,,,adult,2023-01-04 20:29:21.680567
+783,Mercy Hospital Northwest Arkansas,6710535,6710535,IHQCANC,21.2/100,,,,adult,2023-01-04 20:29:21.680567
+784,Southeast Health Medical Center,6530373,6530373,IHQCANC,21.2/100,,,,adult,2023-01-04 20:29:21.680567
+785,Anderson Regional Medical Center,6540510,6540510,IHQCANC,21.1/100,,,,adult,2023-01-04 20:29:21.680567
+786,HSHS St. Vincent Hospital,6450450,6450450,IHQCANC,21.1/100,,,,adult,2023-01-04 20:29:21.680567
+787,McLaren Macomb Hospital,6441847,6441847,IHQCANC,21.1/100,,,,adult,2023-01-04 20:29:21.680567
+788,Mease Countryside Hospital,6390160,6390160,IHQCANC,21.1/100,,,,adult,2023-01-04 20:29:21.680567
+789,Cleveland Clinic Indian River Hospital,6391120,6391120,IHQCANC,21.0/100,,,,adult,2023-01-04 20:29:21.680567
+790,Mills-Peninsula Health Services-Burlingame,6930315,6930315,IHQCANC,21.0/100,,,,adult,2023-01-04 20:29:21.680567
+791,Ascension Providence Hospital-Mobile,6530630,6530630,IHQCANC,20.9/100,,,,adult,2023-01-04 20:29:21.680567
+792,Fawcett Memorial Hospital,6390865,6390865,IHQCANC,20.9/100,,,,adult,2023-01-04 20:29:21.680567
+793,Owensboro Health Regional Hospital,6510003,6510003,IHQCANC,20.8/100,,,,adult,2023-01-04 20:29:21.680567
+794,Baxter Regional Medical Center,6710482,6710482,IHQCANC,20.7/100,,,,adult,2023-01-04 20:29:21.680567
+795,Corewell Health Lakeland Hospital,6440215,6440215,IHQCANC,20.6/100,,,,adult,2023-01-04 20:29:21.680567
+796,Riverside Regional Medical Center,6340520,6340520,IHQCANC,20.6/100,,,,adult,2023-01-04 20:29:21.680567
+797,St. Mark's Hospital,6870290,6870290,IHQCANC,20.5/100,,,,adult,2023-01-04 20:29:21.680567
+798,MaineGeneral Medical Center,6110555,6110555,IHQCANC,20.4/100,,,,adult,2023-01-04 20:29:21.680567
+799,St. Bernardine Medical Center,6932760,6932760,IHQCANC,20.4/100,,,,adult,2023-01-04 20:29:21.680567
+800,Augusta Health-Fishersville,6340005,6340005,IHQCANC,20.3/100,,,,adult,2023-01-04 20:29:21.680567
+801,Physicians Regional-Pine Ridge Hospital,6390103,6390103,IHQCANC,20.3/100,,,,adult,2023-01-04 20:29:21.680567
+802,Community Hospital South,6420728,6420728,IHQCANC,20.2/100,,,,adult,2023-01-04 20:29:21.680567
+803,Mercy Medical Center-Springfield,6141940,6141940,IHQCANC,20.1/100,,,,adult,2023-01-04 20:29:21.680567
+804,Christus St. Frances Cabrini Hospital,6720050,6720050,IHQCANC,20.0/100,,,,adult,2023-01-04 20:29:21.680567
+805,HonorHealth John C. Lincoln Medical Center,6860253,6860253,IHQCANC,20.0/100,,,,adult,2023-01-04 20:29:21.680567
+806,MultiCare Deaconess Hospital,6910880,6910880,IHQCANC,20.0/100,,,,adult,2023-01-04 20:29:21.680567
+807,North Mississippi Medical Center-Tupelo,6540810,6540810,IHQCANC,20.0/100,,,,adult,2023-01-04 20:29:21.680567
+808,Valley Baptist Medical Center-Harlingen,6741790,6741790,IHQCANC,20.0/100,,,,adult,2023-01-04 20:29:21.680567
+809,Carroll Hospital,6320880,6320880,IHQCANC,19.9/100,,,,adult,2023-01-04 20:29:21.680567
+810,Grandview Medical Center-Birmingham,6530161,6530161,IHQCANC,19.9/100,,,,adult,2023-01-04 20:29:21.680567
+811,Prisma Health Richland Hospital,6370140,6370140,IHQCANC,19.8/100,,,,adult,2023-01-04 20:29:21.680567
+812,CaroMont Regional Medical Center,6360580,6360580,IHQCANC,19.7/100,,,,adult,2023-01-04 20:29:21.680567
+813,St. Clair Hospital,6232575,6232575,IHQCANC,19.7/100,,,,adult,2023-01-04 20:29:21.680567
+814,Sunrise Hospital and Medical Center,6880069,6880069,IHQCANC,19.7/100,,,,adult,2023-01-04 20:29:21.680567
+815,TriStar Centennial Medical Center,6520002,6520002,IHQCANC,19.6/100,,,,adult,2023-01-04 20:29:21.680567
+816,Venice Regional Bayfront Hospital,6391119,6391119,IHQCANC,19.5/100,,,,adult,2023-01-04 20:29:21.680567
+817,Prisma Health Baptist Hospital,6370190,6370190,IHQCANC,19.4/100,,,,adult,2023-01-04 20:29:21.680567
+818,Baptist Health Paducah,6510815,6510815,IHQCANC,19.3/100,,,,adult,2023-01-04 20:29:21.680567
+819,Good Samaritan Medical Center-West Palm Beach,6391130,6391130,IHQCANC,19.3/100,,,,adult,2023-01-04 20:29:21.680567
+820,Parkwest Medical Center,6520530,6520530,IHQCANC,19.3/100,,,,adult,2023-01-04 20:29:21.680567
+821,Alta Bates Summit Medical Center-Oakland,6930031,6930031,IHQCANC,19.1/100,,,,adult,2023-01-04 20:29:21.680567
+822,Christus Santa Rosa Health System-San Antonio,6743120,6743120,IHQCANC,19.1/100,,,,adult,2023-01-04 20:29:21.680567
+823,Blount Memorial Hospital,6520670,6520670,IHQCANC,19.0/100,,,,adult,2023-01-04 20:29:21.680567
+824,St. Luke's East Hospital,6630029,6630029,IHQCANC,19.0/100,,,,adult,2023-01-04 20:29:21.680567
+825,Franciscan Health Indianapolis,6420029,6420029,IHQCANC,18.9/100,,,,adult,2023-01-04 20:29:21.680567
+826,St. Bernards Medical Center,6710320,6710320,IHQCANC,18.8/100,,,,adult,2023-01-04 20:29:21.680567
+827,Texas Health Harris Methodist Hospital Hurst-Euless-Bedford,6740280,6740280,IHQCANC,18.8/100,,,,adult,2023-01-04 20:29:21.680567
+828,SSM Health St. Anthony Hospital-Oklahoma City,6730830,6730830,IHQCANC,18.7/100,,,,adult,2023-01-04 20:29:21.680567
+829,Doylestown Hospital,6230590,6230590,IHQCANC,18.6/100,,,,adult,2023-01-04 20:29:21.680567
+830,Mercy Medical Center Redding,6932520,6932520,IHQCANC,18.5/100,,,,adult,2023-01-04 20:29:21.680567
+831,Ascension St. Thomas Rutherford Hospital,6520920,6520920,IHQCANC,18.4/100,,,,adult,2023-01-04 20:29:21.680567
+832,Banner Baywood Medical Center,6860185,6860185,IHQCANC,18.4/100,,,,adult,2023-01-04 20:29:21.680567
+833,Forrest General Hospital,6540315,6540315,IHQCANC,18.4/100,,,,adult,2023-01-04 20:29:21.680567
+834,Roper Hospital,6370090,6370090,IHQCANC,18.4/100,,,,adult,2023-01-04 20:29:21.680567
+835,Sutter Roseville Medical Center,6932645,6932645,IHQCANC,18.4/100,,,,adult,2023-01-04 20:29:21.680567
+836,Jackson-Madison County General Hospital,6524010,6524010,IHQCANC,18.2/100,,,,adult,2023-01-04 20:29:21.680567
+837,Phoebe Putney Memorial Hospital,6380486,6380486,IHQCANC,18.1/100,,,,adult,2023-01-04 20:29:21.680567
+838,Yakima Valley Memorial Hospital,6911260,6911260,IHQCANC,18.0/100,,,,adult,2023-01-04 20:29:21.680567
+839,Christus St. Michael Health System-Texarkana,6740119,6740119,IHQCANC,17.8/100,,,,adult,2023-01-04 20:29:21.680567
+840,Huntsville Hospital,6530510,6530510,IHQCANC,17.8/100,,,,adult,2023-01-04 20:29:21.680567
+841,PeaceHealth Sacred Heart Medical Center at RiverBend,6920051,6920051,IHQCANC,17.8/100,,,,adult,2023-01-04 20:29:21.680567
+842,Union Hospital-Terre Haute,6421366,6421366,IHQCANC,17.8/100,,,,adult,2023-01-04 20:29:21.680567
+843,Crozer-Chester Medical Center,6230400,6230400,IHQCANC,17.7/100,,,,adult,2023-01-04 20:29:21.680567
+844,Abrazo Arrowhead Campus,6860305,6860305,IHQCANC,17.6/100,,,,adult,2023-01-04 20:29:21.680567
+845,Baptist Health Hardin,6510165,6510165,IHQCANC,17.6/100,,,,adult,2023-01-04 20:29:21.680567
+846,Butler Memorial Hospital,6230270,6230270,IHQCANC,17.6/100,,,,adult,2023-01-04 20:29:21.680567
+847,Novant Health Presbyterian Medical Center,6360320,6360320,IHQCANC,17.5/100,,,,adult,2023-01-04 20:29:21.680567
+848,HCA Houston Healthcare Conroe,6740117,6740117,IHQCANC,17.4/100,,,,adult,2023-01-04 20:29:21.680567
+849,St. Clare's Denville Hospital,6220105,6220105,IHQCANC,17.4/100,,,,adult,2023-01-04 20:29:21.680567
+850,United Health Services Hospitals-Binghamton,6211545,6211545,IHQCANC,17.3/100,,,,adult,2023-01-04 20:29:21.680567
+851,ProHealth Waukesha Memorial Hospital,6452020,6452020,IHQCANC,17.2/100,,,,adult,2023-01-04 20:29:21.680567
+852,Wilkes-Barre General Hospital,6230026,6230026,IHQCANC,17.1/100,,,,adult,2023-01-04 20:29:21.680567
+853,Barnes-Jewish St. Peters Hospital,6631280,6631280,IHQCANC,17.0/100,,,,adult,2023-01-04 20:29:21.680567
+854,Crouse Hospital,6214890,6214890,IHQCANC,17.0/100,,,,adult,2023-01-04 20:29:21.680567
+855,Ellis Hospital,6214560,6214560,IHQCANC,17.0/100,,,,adult,2023-01-04 20:29:21.680567
+856,Ascension Borgess Hospital,6440017,6440017,IHQCANC,16.9/100,,,,adult,2023-01-04 20:29:21.680567
+857,Harbor-UCLA Medical Center,6933683,6933683,IHQCANC,16.9/100,,,,adult,2023-01-04 20:29:21.680567
+858,Memorial Hospital-Belleville,6430195,6430195,IHQCANC,16.6/100,,,,adult,2023-01-04 20:29:21.680567
+859,Desert Regional Medical Center,6932325,6932325,IHQCANC,16.5/100,,,,adult,2023-01-04 20:29:21.680567
+860,Mobile Infirmary Medical Center,6530006,6530006,IHQCANC,16.4/100,,,,adult,2023-01-04 20:29:21.680567
+861,WellSpan Chambersburg Hospital,6230360,6230360,IHQCANC,16.4/100,,,,adult,2023-01-04 20:29:21.680567
+862,HonorHealth Scottsdale Osborn Medical Center,6860376,6860376,IHQCANC,16.3/100,,,,adult,2023-01-04 20:29:21.680567
+863,St. Elizabeth's Medical Center-Brighton,6140620,6140620,IHQCANC,16.3/100,,,,adult,2023-01-04 20:29:21.680567
+864,St. Joseph's Medical Center-Stockton,6933620,6933620,IHQCANC,16.1/100,,,,adult,2023-01-04 20:29:21.680567
+865,Hospital HIMA San Pablo Bayamon,6040055,6040055,IHQCANC,16.0/100,,,,adult,2023-01-04 20:29:21.680567
+866,Genesis Medical Center-Davenport-West Central Park,6620004,6620004,IHQCANC,15.9/100,,,,adult,2023-01-04 20:29:21.680567
+867,Washington Regional Medical Center,6710195,6710195,IHQCANC,15.9/100,,,,adult,2023-01-04 20:29:21.680567
+868,Rapid City Regional Hospital,6650002,6650002,IHQCANC,15.7/100,,,,adult,2023-01-04 20:29:21.680567
+869,HCA Fort Walton-Destin Hospital,6390253,6390253,IHQCANC,15.5/100,,,,adult,2023-01-04 20:29:21.680567
+870,Singing River Health System-Pascagoula,6540021,6540021,IHQCANC,15.5/100,,,,adult,2023-01-04 20:29:21.680567
+871,Parkridge Medical Center,6520015,6520015,IHQCANC,15.3/100,,,,adult,2023-01-04 20:29:21.680567
+872,Palmetto General Hospital,6394001,6394001,IHQCANC,15.0/100,,,,adult,2023-01-04 20:29:21.680567
+873,Bassett Medical Center,6210001,6210001,IHQCANC,14.8/100,,,,adult,2023-01-04 20:29:21.680567
+874,Emanate Health Queen of The Valley Hospital,6930689,6930689,IHQCANC,14.5/100,,,,adult,2023-01-04 20:29:21.680567
+875,JFK Medical Center,6390074,6390074,IHQCANC,14.5/100,,,,adult,2023-01-04 20:29:21.680567
+876,Christus Good Shepherd Medical Center-Marshall,6742430,6742430,IHQCANC,14.4/100,,,,adult,2023-01-04 20:29:21.680567
+877,Legacy Salmon Creek Medical Center,6910013,6910013,IHQCANC,14.4/100,,,,adult,2023-01-04 20:29:21.680567
+878,Antelope Valley Hospital,6931178,6931178,IHQCANC,14.2/100,,,,adult,2023-01-04 20:29:21.680567
+879,Piedmont Macon Hospital,6380715,6380715,IHQCANC,14.0/100,,,,adult,2023-01-04 20:29:21.680567
+880,Baptist Health Medical Center-North Little Rock,6710497,6710497,IHQCANC,13.8/100,,,,adult,2023-01-04 20:29:21.680567
+881,Cookeville Regional Medical Center,6520212,6520212,IHQCANC,13.8/100,,,,adult,2023-01-04 20:29:21.680567
+882,Freeman Health System-Joplin,6630008,6630008,IHQCANC,13.8/100,,,,adult,2023-01-04 20:29:21.680567
+883,Memorial Medical Center-Modesto,6931929,6931929,IHQCANC,13.8/100,,,,adult,2023-01-04 20:29:21.680567
+884,Novant Health Forsyth Medical Center,6361685,6361685,IHQCANC,13.7/100,,,,adult,2023-01-04 20:29:21.680567
+885,Ascension St. Vincent's East Hospital,6530180,6530180,IHQCANC,13.5/100,,,,adult,2023-01-04 20:29:21.680567
+886,Beebe Healthcare-Lewes,6310030,6310030,IHQCANC,13.5/100,,,,adult,2023-01-04 20:29:21.680567
+887,Piedmont Eastside Medical Center,6381075,6381075,IHQCANC,13.5/100,,,,adult,2023-01-04 20:29:21.680567
+888,University Hospital-San Juan,6040050,6040050,IHQCANC,13.5/100,,,,adult,2023-01-04 20:29:21.680567
+889,Northwest Medical Center-Margate,6390509,6390509,IHQCANC,13.4/100,,,,adult,2023-01-04 20:29:21.680567
+890,Southeast Georgia Health System Brunswick Campus,6380340,6380340,IHQCANC,13.0/100,,,,adult,2023-01-04 20:29:21.680567
+891,Springhill Medical Center,6530640,6530640,IHQCANC,12.9/100,,,,adult,2023-01-04 20:29:21.680567
+892,Heritage Valley Health System-Beaver,6230100,6230100,IHQCANC,12.7/100,,,,adult,2023-01-04 20:29:21.680567
+893,Regional Hospital of Scranton,6233000,6233000,IHQCANC,12.6/100,,,,adult,2023-01-04 20:29:21.680567
+894,Citrus Memorial Health System-Inverness,6390305,6390305,IHQCANC,12.4/100,,,,adult,2023-01-04 20:29:21.680567
+895,Good Samaritan Hospital-San Jose,6930076,6930076,IHQCANC,12.1/100,,,,adult,2023-01-04 20:29:21.680567
+896,Brookwood Baptist Medical Center,6530175,6530175,IHQCANC,11.6/100,,,,adult,2023-01-04 20:29:21.680567
+897,Manatee Memorial Hospital,6390064,6390064,IHQCANC,11.5/100,,,,adult,2023-01-04 20:29:21.680567
+898,Decatur Morgan Hospital,6530011,6530011,IHQCANC,11.3/100,,,,adult,2023-01-04 20:29:21.680567
+899,Dominican Hospital,6930008,6930008,IHQCANC,11.3/100,,,,adult,2023-01-04 20:29:21.680567
+900,Marian Regional Medical Center,6933440,6933440,IHQCANC,11.2/100,,,,adult,2023-01-04 20:29:21.680567
+901,Doctors Center,6040325,6040325,IHQCANC,11.0/100,,,,adult,2023-01-04 20:29:21.680567
+902,Princeton Baptist Medical Center,6530160,6530160,IHQCANC,10.9/100,,,,adult,2023-01-04 20:29:21.680567
+903,TriStar Summit Medical Center,6520043,6520043,IHQCANC,10.5/100,,,,adult,2023-01-04 20:29:21.680567
+904,West Florida Hospital,6390793,6390793,IHQCANC,9.3/100,,,,adult,2023-01-04 20:29:21.680567
+905,Mercy Health-West Hospital,6410518,6410518,IHQCANC,8.3/100,,,,adult,2023-01-04 20:29:21.680567
+906,Dignity Health Yavapai Regional Medical Center,6860320,6860320,IHQCANC,6.7/100,,,,adult,2023-01-04 20:29:21.680567
+907,Eastern Idaho Regional Medical Center,6820165,6820165,IHQCANC,6.5/100,,,,adult,2023-01-04 20:29:21.680567
+908,Ocala Regional Medical Center,6390680,6390680,IHQCANC,5.5/100,,,,adult,2023-01-04 20:29:21.680567
+909,Self Regional Healthcare-Greenwood,6370375,6370375,IHQCANC,5.5/100,,,,adult,2023-01-04 20:29:21.680567
+910,McLaren Greater Lansing Hospital,6440009,6440009,IHQCANC,4.6/100,,,,adult,2023-01-04 20:29:21.680567
+911,Thomas Hospital,6530417,6530417,IHQCANC,4.4/100,,,,adult,2023-01-04 20:29:21.680567
+912,Tennova North Knoxville Medical Center,6520047,6520047,IHQCANC,0.0/100,,,,adult,2023-01-04 20:29:21.680567
