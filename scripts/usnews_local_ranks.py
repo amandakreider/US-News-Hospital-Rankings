@@ -6,17 +6,15 @@ import os
 from pathlib import Path
 from datetime import date, datetime, timedelta
 import time
-import pprint
 
 # Input place name to gather data for that place
-searchplace = 'Pennsylvania'
+searchplace = 'New York, NY' # Can enter state, region, city, zip
 
 # Input directory where you want datafiles to be stored
 directory = '/mnt/c/Users/akreid/iCloudDrive/Documents/GitHub/usnews/data/' 
 #directory = str(Path(__file__).parent.parent) + "/data/"
 
 # Definitions 
-pp = pprint.PrettyPrinter(indent=4)
 usn_url = 'https://health.usnews.com'
 hdr = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0'
@@ -57,7 +55,7 @@ national_ranks_adult = []
 national_ranks_peds = []
 updated = []
 
-for p in range(1, 3):
+for p in range(1, 999):
 
 	time.sleep(1)
 
@@ -85,8 +83,6 @@ for p in range(1, 3):
 			names.append(name)
 
 			print('Working on hospital: '+name)
-
-			pp.pprint(matches[h])	
 
 			aha_id = matches[h]['aha_id']
 			aha_ids.append(aha_id)
@@ -243,13 +239,20 @@ df['# of National Rankings (Adult)'] = national_ranks_adult
 df['# of National Rankings (Pediatrics)'] = national_ranks_peds
 df['Updated'] = updated
 
-df.drop_duplicates()
+df = df.drop_duplicates()
+
+# Merge in specialty data
+
+left = df
+right = pd.read_pickle(directory+'spec_hosp_rankings.pkl').drop_duplicates()
+result = pd.merge(left, right, how='left', on=['AHA ID', 'Hospital ID'], validate='one_to_one', suffixes=(None, '_Spec'))
 
 # Save CSV and pickle files
 
 print("csv and pickle files will be generated at ", directory)
-df.to_csv(directory+'hosp_rankings_local.csv')
-df.to_pickle(directory+'hosp_rankings_local.pkl')
+result.to_csv(directory+'hosp_rankings_local.csv')
+result.to_pickle(directory+'hosp_rankings_local.pkl')
+
 
 
 
