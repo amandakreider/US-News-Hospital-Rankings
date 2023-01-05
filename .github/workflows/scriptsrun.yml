@@ -22,14 +22,15 @@ jobs:
       - uses: actions/setup-python@v4
         with:
           python-version: '3.x' # Version range or exact version of a Python version to use, using SemVer's version range syntax
-          architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
-          cache: 'pip'
 
       # Install dependencies
       - run: pip install -r requirements.txt     
           
-      # Run jbscal.py        
-      - run: python usnews_philly.py 
+      # Run python scripts    
+      - run: python usnews_spec_ranks.py 
+        working-directory: ./scripts
+
+      - run: python usnews_local_ranks.py 
         working-directory: ./scripts
 
       # Push changes
@@ -38,8 +39,8 @@ jobs:
           git config --global user.name "Amanda Kreider"
           git config --global user.email "akreid@wharton.upenn.edu"  
 
-          git add ./csv/hosp_rankings_phila_pa.csv
-          git commit -m "Update Philadelphia hospital rankings file"
+          git add ./data/hosp_rankings_local.csv ./data/hosp_rankings_local.pkl .data/spec_hosp_rankings.csv .data/spec_hosp_rankings.pkl
+          git commit -m "Updated hospital rankings datafiles"
           git pull --rebase
           git push          
 
