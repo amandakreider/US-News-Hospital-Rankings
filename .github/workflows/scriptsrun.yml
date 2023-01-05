@@ -39,7 +39,10 @@ jobs:
           git config --global user.name "Amanda Kreider"
           git config --global user.email "akreid@wharton.upenn.edu"  
 
-          git add ./data/hosp_rankings_local.csv ./data/hosp_rankings_local.pkl .data/spec_hosp_rankings.csv .data/spec_hosp_rankings.pkl
+          git add ./data/hosp_rankings_local.csv 
+          git add ./data/hosp_rankings_local.pkl 
+          git add ./data/spec_hosp_rankings.csv 
+          git add ./data/spec_hosp_rankings.pkl
           git commit -m "Updated hospital rankings datafiles"
           git pull --rebase
           git push          
