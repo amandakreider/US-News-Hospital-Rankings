@@ -11,8 +11,8 @@ import time
 specialty = 'IHQCANC' # this is the US News specialty code for cancer care
 
 # Input directory where you want datafiles to be stored
-directory = '/mnt/c/Users/akreid/iCloudDrive/Documents/GitHub/usnews/data/' 
-#directory = str(Path(__file__).parent.parent) + "/data/"
+#directory = 'c/Users/username/Documents/usnews/data/' 
+directory = str(Path(__file__).parent.parent) + "/data/"
 
 # Definitions 
 usn_url = 'https://health.usnews.com'

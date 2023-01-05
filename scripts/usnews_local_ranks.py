@@ -11,8 +11,8 @@ import time
 searchplace = 'New York, NY' # Can enter state, region, city, zip
 
 # Input directory where you want datafiles to be stored
-directory = '/mnt/c/Users/akreid/iCloudDrive/Documents/GitHub/usnews/data/' 
-#directory = str(Path(__file__).parent.parent) + "/data/"
+#directory = 'c/Users/username/Documents/usnews/data/' 
+directory = str(Path(__file__).parent.parent) + "/data/"
 
 # Definitions 
 usn_url = 'https://health.usnews.com'
