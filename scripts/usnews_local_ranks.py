@@ -8,15 +8,16 @@ from datetime import date, datetime, timedelta
 import time
 import pprint
 
+# Input place name to gather data for that place
+searchplace = 'Pennsylvania'
+
+# Input directory where you want datafiles to be stored
+directory = '/mnt/c/Users/akreid/iCloudDrive/Documents/GitHub/usnews/data/' 
+#directory = str(Path(__file__).parent.parent) + "/data/"
+
+# Definitions 
 pp = pprint.PrettyPrinter(indent=4)
-
-# Define city
-searchcity = 'Low Country'
-
-# Define url
 usn_url = 'https://health.usnews.com'
-
-# Define headers
 hdr = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0'
 }
@@ -24,102 +25,6 @@ hdr = {
 # Timestamp
 timestamp = datetime.now()
 print(timestamp)
-
-# Initiate lists
-names = []
-aha_ids = []
-hospital_ids = []
-cancer_ranks = []
-cancer_rank_tied_flags = []
-cancer_rank_revoked_flags = []
-cancer_rank_spec_ids = []
-cancer_rank_types = []
-cancer_scores = []
-
-# First gather cancer rankings
-
-for p in range(1, 999):
-
-	time.sleep(1)
-
-	pagestr = str(p)
-
-	# Cancer rank url: 
-	url = 'https://health.usnews.com/best-hospitals/search-data?specialty_id=IHQCANC&page='+pagestr
-
-	# Pull in json data from url
-	r = requests.get(url, headers=hdr)
-	print(r.status_code)
-
-	if r.status_code != 204 and r.status_code != 404:
-
-		soup = bs(r.content, "html.parser")
-		json_data = soup.text
-		data = json.loads(json_data)
-
-		matches = data['matches']
-
-		for h in range(len(data['matches'])):
-
-			# Get hospital data
-			name = matches[h]['name']
-			names.append(name)
-
-			print('Working on hospital: '+name)
-
-			pp.pprint(matches[h])	
-
-			aha_id = matches[h]['aha_id']
-			aha_ids.append(aha_id)
-
-			hospital_id = matches[h]['hospital_id']
-			hospital_ids.append(hospital_id)
-
-			cancer_rank = matches[h]['ranking']['rank']
-			cancer_ranks.append(cancer_rank)
-
-			cancer_rank_tied = matches[h]['ranking']['is_tied']
-			cancer_rank_tied_flags.append(cancer_rank_tied)
-
-			cancer_rank_revoked = matches[h]['ranking']['is_revoked']
-			cancer_rank_revoked_flags.append(cancer_rank_revoked)
-
-			cancer_rank_specialty_id = matches[h]['ranking']['specialty_id']
-			cancer_rank_spec_ids.append(cancer_rank_specialty_id)
-
-			cancer_rank_type = matches[h]['ranking']['type']
-			cancer_rank_types.append(cancer_rank_type)
-
-			cancer_score = matches[h]['scores'][0]['score']
-			cancer_scores.append(cancer_score)
-
-	else:
-
-		print('No page')
-		break
-
-print('Create a csv file with cancer ranking data')
-# Create a csv file with cancer ranking data
-canc_df = pd.DataFrame()
-
-canc_df['Name'] = names
-canc_df['AHA ID'] = aha_ids
-canc_df['Hospital ID'] = hospital_ids
-canc_df['Cancer Ranking'] = cancer_ranks
-canc_df['Cancer Ranking Tied?'] = cancer_rank_tied_flags
-canc_df['Cancer Ranking Revoked?'] = cancer_rank_revoked_flags
-canc_df['Cancer Ranking Specialty ID'] = cancer_rank_spec_ids
-canc_df['Cancer Ranking PrettyPrinter'] = cancer_rank_types
-canc_df['Cancer Care Score'] = cancer_scores
-
-df.drop_duplicates()
-
-# Save CSV 
-
-directory = '/mnt/c/Users/akreid/iCloudDrive/Documents/GitHub/usnews/csv/'
-#directory = str(Path(__file__).parent.parent) + "/csv/"
-print("csv file will be generated at ", directory)
-df.to_csv(directory+'cancer_hosp_rankings.csv')
 
 # Initiate lists 
 names = []
@@ -152,17 +57,14 @@ national_ranks_adult = []
 national_ranks_peds = []
 updated = []
 
-for p in range(1, 999):
+for p in range(1, 3):
 
 	time.sleep(1)
 
 	pagestr = str(p)
 
 	# Regional rankings url:
-	url = 'https://health.usnews.com/best-hospitals/search-data?city='+searchcity+'&page='+pagestr
-
-	# Cancer rank url: 
-	# 'https://health.usnews.com/best-hospitals/search-data?specialty_id=IHQCANC&page=3'
+	url = 'https://health.usnews.com/best-hospitals/search-data?city='+searchplace+'&page='+pagestr
 
 	# Pull in json data from url
 	r = requests.get(url, headers=hdr)
@@ -307,8 +209,8 @@ for p in range(1, 999):
 		print('No page')
 		break
 
-print('Create a csv file with hospital data')
-# Create a csv file with hospital data
+print('Create a data file with hospital data')
+# Create a data file with hospital data
 df = pd.DataFrame()
 
 df['Name'] = names
@@ -343,12 +245,11 @@ df['Updated'] = updated
 
 df.drop_duplicates()
 
-# Save CSV 
+# Save CSV and pickle files
 
-directory = '/mnt/c/Users/akreid/iCloudDrive/Documents/GitHub/usnews/csv/'
-#directory = str(Path(__file__).parent.parent) + "/csv/"
-print("csv file will be generated at ", directory)
-df.to_csv(directory+'hosp_rankings_lowcountry.csv')
+print("csv and pickle files will be generated at ", directory)
+df.to_csv(directory+'hosp_rankings_local.csv')
+df.to_pickle(directory+'hosp_rankings_local.pkl')
 
 
 
