@@ -4,12 +4,12 @@ I wrote these Python scripts to scrape hospital data and rankings from the [U.S.
 
 ## Steps:
 
-1. Input local directory and the specialty you wish to scrape rankings for at the top of scripts/usnews_spec_ranks.py
+1. Input local directory and the specialty you wish to scrape rankings for at the top of [usnews_spec_ranks.py](https://github.com/amandakreider/US-News-Hospital-Rankings/blob/main/scripts/usnews_spec_ranks.py)
    - I will add a listing of specialties later for convenience.
-2. Input local directory and the place (state, region, or city) you wish to scrape rankings for at the top of scripts/usnews_local_ranks.py
-3. Run scripts/usnews_spec_ranks.py to create specialty rankings 
+2. Input local directory and the place (state, region, or city) you wish to scrape rankings for at the top of [usnews_local_ranks.py](https://github.com/amandakreider/US-News-Hospital-Rankings/blob/main/scripts/usnews_local_ranks.py)
+3. Run [usnews_spec_ranks.py](https://github.com/amandakreider/US-News-Hospital-Rankings/blob/main/scripts/usnews_spec_ranks.py) to create specialty rankings 
    - This script scrapes *all* rankings for the given specialty at the national level.
-4. Run scripts/usnews_local_ranks.py to create hospital rankings for a local area (state, region, or city)
+4. Run [usnews_local_ranks.py](https://github.com/amandakreider/US-News-Hospital-Rankings/blob/main/scripts/usnews_local_ranks.py) to create hospital rankings for a local area (state, region, or city)
    - This script also merges in the specialty data created in step #1.
 
 
