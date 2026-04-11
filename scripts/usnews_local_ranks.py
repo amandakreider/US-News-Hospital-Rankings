@@ -8,7 +8,7 @@ from datetime import date, datetime, timedelta
 import time
 
 # Input place name to gather data for that place
-searchplace = 'New York, NY' # Can enter state, region, city, zip
+searchplace = 'Pittsburgh, PA' # Can enter state, region, city, zip
 
 # Input directory where you want datafiles to be stored
 #directory = 'c/Users/username/Documents/usnews/data/' 
@@ -16,9 +16,9 @@ directory = str(Path(__file__).parent.parent) + "/data/"
 
 # Definitions 
 usn_url = 'https://health.usnews.com'
-hdr = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0'
-}
+
+ua = os.getenv("MY_UA", requests.utils.default_user_agent())
+hdr = {"User-Agent": ua}
 
 # Timestamp
 timestamp = datetime.now()
@@ -241,17 +241,11 @@ df['Updated'] = updated
 
 df = df.drop_duplicates()
 
-# Merge in specialty data
-
-left = df
-right = pd.read_pickle(directory+'spec_hosp_rankings.pkl').drop_duplicates()
-result = pd.merge(left, right, how='left', on=['AHA ID', 'Hospital ID'], validate='one_to_one', suffixes=(None, '_Spec'))
-
 # Save CSV and pickle files
 
 print("csv and pickle files will be generated at ", directory)
-result.to_csv(directory+'hosp_rankings_local.csv')
-result.to_pickle(directory+'hosp_rankings_local.pkl')
+df.to_csv(directory+'hosp_rankings_local.csv')
+df.to_pickle(directory+'hosp_rankings_local.pkl')
 
 
 

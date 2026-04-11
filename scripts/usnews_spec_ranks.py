@@ -16,9 +16,8 @@ directory = str(Path(__file__).parent.parent) + "/data/"
 
 # Definitions 
 usn_url = 'https://health.usnews.com'
-hdr = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0'
-}
+ua = os.getenv("MY_UA", requests.utils.default_user_agent())
+hdr = {"User-Agent": ua}
 
 # Timestamp
 timestamp = datetime.now()
